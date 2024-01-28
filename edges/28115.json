@@ -1,0 +1,1 @@
+{"name": "IEEE_표준", "id": 28115, "predecessors": [{"name": "인터넷_표준", "id": 15134}, {"name": "컴퓨터_표준", "id": 662635}, {"name": "표준", "id": 14968}, {"name": "국제_관계", "id": 12141}], "successors": [{"name": "IEEE_802", "id": 35687}, {"name": "IEEE_802.11", "id": 573279}]}

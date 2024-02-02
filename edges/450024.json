@@ -1,1 +1,1 @@
-{"name": "IBM_소프트웨어", "id": 450024, "predecessors": [{"name": "IBM", "id": 143233}, {"name": "집단지성", "id": 145034}], "successors": [{"name": "IBM_메인프레임_운영_체제", "id": 1067654}]}
+{"name": "IBM_소프트웨어", "id": 450024, "predecessors": [{"name": "IBM", "id": 143233}, {"name": "소셜_네트워크", "id": 564972}], "successors": [{"name": "IBM_메인프레임_운영_체제", "id": 1067654}]}

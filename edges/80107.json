@@ -1,1 +1,1 @@
-{"name": "확률_과정", "id": 80107, "predecessors": [{"name": "가정_(논리학)", "id": 2571199}], "successors": [{"name": "마르코프_모형", "id": 2483737}]}
+{"name": "확률_과정", "id": 80107, "predecessors": [{"name": "추상", "id": 450333}], "successors": [{"name": "마르코프_모형", "id": 2483737}]}

@@ -1,1 +1,1 @@
-{"name": "퇴적암", "id": 199750, "predecessors": [{"name": "암석", "id": 30513}, {"name": "퇴적학", "id": 448972}], "successors": [{"name": "석회암_동굴", "id": 687786}]}
+{"name": "퇴적암", "id": 199750, "predecessors": [{"name": "암석", "id": 30513}, {"name": "퇴적학", "id": 448972}], "successors": [{"name": "석회암_동굴", "id": 687786}, {"name": "석회암_지층", "id": 3678657}]}

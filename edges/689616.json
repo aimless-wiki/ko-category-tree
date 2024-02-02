@@ -1,1 +1,1 @@
-{"name": "방재", "id": 689616, "predecessors": [{"name": "안전", "id": 31670}, {"name": "위기관리", "id": 665620}, {"name": "국제안보", "id": 670486}], "successors": [{"name": "경보_시스템", "id": 704813}]}
+{"name": "방재", "id": 689616, "predecessors": [{"name": "안전", "id": 31670}, {"name": "위기관리", "id": 665620}], "successors": [{"name": "경보_시스템", "id": 704813}]}

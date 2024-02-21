@@ -1,1 +1,1 @@
-{"name": "PC_엔진_게임", "id": 1669837, "predecessors": [{"name": "디지털_미디어", "id": 101767}, {"name": "유형별_기업", "id": 1102150}], "successors": []}
+{"name": "PC_엔진_게임", "id": 1669837, "predecessors": [{"name": "컴퓨터_하드웨어", "id": 19594}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "마크업_언어", "id": 15120, "predecessors": [{"name": "파일_포맷", "id": 38407}, {"name": "인공어", "id": 32315}], "successors": [{"name": "HTML", "id": 29771}, {"name": "XML", "id": 29844}]}

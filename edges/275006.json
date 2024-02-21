@@ -1,1 +1,1 @@
-{"name": "철학_용어", "id": 275006, "predecessors": [{"name": "철학", "id": 4386}], "successors": [{"name": "존재론", "id": 108373}, {"name": "라틴어_철학_구", "id": 1163809}]}
+{"name": "철학_용어", "id": 275006, "predecessors": [{"name": "철학", "id": 4386}, {"name": "기술", "id": 15132}, {"name": "사회언어학", "id": 32610}], "successors": [{"name": "존재론", "id": 108373}]}

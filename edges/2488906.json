@@ -1,1 +1,1 @@
-{"name": "니코틴_대항제", "id": 2488906, "predecessors": [{"name": "신경전달물질", "id": 340445}, {"name": "단백질", "id": 30341}], "successors": []}
+{"name": "니코틴_대항제", "id": 2488906, "predecessors": [{"name": "세포_신호", "id": 2488920}, {"name": "신경전달물질", "id": 340445}], "successors": []}

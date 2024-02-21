@@ -1,1 +1,1 @@
-{"name": "원뿔_곡선", "id": 45471, "predecessors": [{"name": "대수_곡선", "id": 97684}, {"name": "곡선", "id": 20678}], "successors": []}
+{"name": "원뿔_곡선", "id": 45471, "predecessors": [{"name": "대수_곡선", "id": 97684}, {"name": "해석기하학", "id": 529981}, {"name": "곡선", "id": 20678}], "successors": []}

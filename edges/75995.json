@@ -1,1 +1,1 @@
-{"name": "색_공간", "id": 75995, "predecessors": [{"name": "수학_용어", "id": 116469}], "successors": []}
+{"name": "색_공간", "id": 75995, "predecessors": [{"name": "색", "id": 41949}, {"name": "계량기하학", "id": 111839}, {"name": "수학_용어", "id": 116469}], "successors": []}

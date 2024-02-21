@@ -1,1 +1,1 @@
-{"name": "RNA", "id": 48472, "predecessors": [{"name": "뉴클레오타이드", "id": 871137}], "successors": []}
+{"name": "RNA", "id": 48472, "predecessors": [{"name": "뉴클레오타이드", "id": 871137}], "successors": [{"name": "HIV/AIDS", "id": 1309349}, {"name": "SARS-CoV-2_변이주", "id": 3180816}, {"name": "코로나19_백신", "id": 2892365}]}

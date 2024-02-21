@@ -1,1 +1,1 @@
-{"name": "광고_음악", "id": 507358, "predecessors": [{"name": "광고", "id": 147711}, {"name": "음악_장르", "id": 33382}, {"name": "마케팅", "id": 56677}], "successors": []}
+{"name": "광고_음악", "id": 507358, "predecessors": [{"name": "광고", "id": 147711}, {"name": "방송", "id": 15145}, {"name": "마케팅", "id": 56677}], "successors": []}

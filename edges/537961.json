@@ -1,1 +1,1 @@
-{"name": "어머니_신", "id": 537961, "predecessors": [{"name": "여신", "id": 46026}], "successors": [{"name": "지모신", "id": 541354}]}
+{"name": "어머니_신", "id": 537961, "predecessors": [{"name": "여신", "id": 46026}, {"name": "여성", "id": 81899}], "successors": [{"name": "지모신", "id": 541354}]}

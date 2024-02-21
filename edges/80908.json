@@ -1,1 +1,1 @@
-{"name": "단파방송", "id": 80908, "predecessors": [{"name": "국제방송", "id": 89977}], "successors": []}
+{"name": "단파방송", "id": 80908, "predecessors": [{"name": "국제방송", "id": 89977}, {"name": "방송", "id": 15145}], "successors": []}

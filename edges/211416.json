@@ -1,1 +1,1 @@
-{"name": "가루", "id": 211416, "predecessors": [{"name": "식자재", "id": 695629}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "가루", "id": 211416, "predecessors": [{"name": "재료", "id": 50188}, {"name": "투여_형태", "id": 612505}], "successors": [{"name": "눈_(날씨)", "id": 369910}]}

@@ -1,1 +1,1 @@
-{"name": "트랜지스터", "id": 96335, "predecessors": [{"name": "반도체", "id": 50189}, {"name": "전자_부품", "id": 35481}, {"name": "전기공학", "id": 33470}, {"name": "기술", "id": 15132}], "successors": [{"name": "MOSFET", "id": 2669978}]}
+{"name": "트랜지스터", "id": 96335, "predecessors": [{"name": "반도체", "id": 50189}, {"name": "전자_부품", "id": 35481}, {"name": "전기공학", "id": 33470}, {"name": "기술", "id": 15132}, {"name": "고전역학", "id": 32983}], "successors": [{"name": "MOSFET", "id": 2669978}]}

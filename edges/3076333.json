@@ -1,1 +1,1 @@
-{"name": "꼬치구이", "id": 3076333, "predecessors": [{"name": "한국_요리", "id": 49112}, {"name": "음식", "id": 10475}], "successors": []}
+{"name": "꼬치구이", "id": 3076333, "predecessors": [{"name": "바비큐", "id": 625715}], "successors": [{"name": "꼬치_케밥", "id": 3076220}]}

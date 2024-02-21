@@ -1,1 +1,1 @@
-{"name": "Wii_U_게임", "id": 862267, "predecessors": [{"name": "닌텐도의_콘솔", "id": 2565670}, {"name": "닌텐도_게임", "id": 843264}, {"name": "디지털_미디어", "id": 101767}], "successors": [{"name": "Amiibo_대응_소프트웨어", "id": 2571763}]}
+{"name": "Wii_U_게임", "id": 862267, "predecessors": [{"name": "닌텐도의_콘솔", "id": 2565670}, {"name": "닌텐도_게임", "id": 843264}], "successors": [{"name": "Amiibo_대응_소프트웨어", "id": 2571763}, {"name": "마인크래프트", "id": 2604751}]}

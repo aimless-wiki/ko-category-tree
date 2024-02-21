@@ -1,1 +1,1 @@
-{"name": "게임_시나리오_작가", "id": 475297, "predecessors": [{"name": "문학_장르", "id": 141656}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "게임_시나리오_작가", "id": 475297, "predecessors": [{"name": "문학", "id": 4392}, {"name": "위키백과_관리", "id": 39546}], "successors": []}

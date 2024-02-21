@@ -1,1 +1,1 @@
-{"name": "문자_집합", "id": 14864, "predecessors": [{"name": "문자_인코딩", "id": 74530}, {"name": "ISO_표준", "id": 15003}], "successors": [{"name": "유니코드", "id": 14863}, {"name": "ISO/IEC_8859", "id": 1326942}]}
+{"name": "문자_집합", "id": 14864, "predecessors": [{"name": "문자_인코딩", "id": 74530}], "successors": [{"name": "유니코드", "id": 14863}, {"name": "ISO/IEC_8859", "id": 1326942}]}

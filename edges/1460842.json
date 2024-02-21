@@ -1,1 +1,1 @@
-{"name": "학력_위조자", "id": 1460842, "predecessors": [{"name": "교육_문제", "id": 491923}, {"name": "사기", "id": 313405}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "학력_위조자", "id": 1460842, "predecessors": [{"name": "사기", "id": 313405}, {"name": "위키백과_관리", "id": 39546}], "successors": []}

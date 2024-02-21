@@ -1,1 +1,1 @@
-{"name": "잎채소", "id": 221467, "predecessors": [{"name": "농업", "id": 56133}, {"name": "식물해부학", "id": 394738}], "successors": []}
+{"name": "잎채소", "id": 221467, "predecessors": [{"name": "음식", "id": 10475}, {"name": "식물해부학", "id": 394738}], "successors": []}

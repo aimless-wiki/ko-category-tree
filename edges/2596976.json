@@ -1,1 +1,1 @@
-{"name": "구글_검색", "id": 2596976, "predecessors": [{"name": "구글", "id": 51257}], "successors": []}
+{"name": "구글_검색", "id": 2596976, "predecessors": [{"name": "구글", "id": 51257}, {"name": "웹사이트", "id": 13390}], "successors": []}

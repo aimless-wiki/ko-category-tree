@@ -1,1 +1,1 @@
-{"name": "로마_지하철역", "id": 1023854, "predecessors": [{"name": "철도_교통", "id": 14768}], "successors": []}
+{"name": "로마_지하철역", "id": 1023854, "predecessors": [{"name": "대륙", "id": 11805}, {"name": "유럽_연합_회원국", "id": 600344}, {"name": "사회", "id": 31673}], "successors": []}

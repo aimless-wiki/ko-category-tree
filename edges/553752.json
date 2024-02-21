@@ -1,1 +1,1 @@
-{"name": "은화", "id": 553752, "predecessors": [{"name": "전이_금속", "id": 49205}, {"name": "금속가공", "id": 103492}, {"name": "경제_체제", "id": 170639}], "successors": []}
+{"name": "은화", "id": 553752, "predecessors": [{"name": "전이_금속", "id": 49205}, {"name": "통화", "id": 11839}, {"name": "경제_체제", "id": 170639}], "successors": []}

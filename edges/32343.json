@@ -1,1 +1,1 @@
-{"name": "염기", "id": 32343, "predecessors": [{"name": "화학", "id": 12062}], "successors": [{"name": "아민", "id": 151136}, {"name": "수산화물", "id": 359508}]}
+{"name": "염기", "id": 32343, "predecessors": [{"name": "화학", "id": 12062}, {"name": "재료", "id": 50188}], "successors": [{"name": "아민", "id": 151136}, {"name": "수산화물", "id": 359508}]}

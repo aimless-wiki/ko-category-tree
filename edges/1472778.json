@@ -1,1 +1,1 @@
-{"name": "미디어_비평가", "id": 1472778, "predecessors": [{"name": "문학_장르", "id": 141656}, {"name": "방법론", "id": 51135}], "successors": []}
+{"name": "미디어_비평가", "id": 1472778, "predecessors": [{"name": "문학_장르", "id": 141656}, {"name": "대중_매체", "id": 15146}, {"name": "문제_해결", "id": 108756}], "successors": []}

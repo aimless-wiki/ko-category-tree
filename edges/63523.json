@@ -1,1 +1,1 @@
-{"name": "기념비", "id": 63523, "predecessors": [{"name": "건축공학", "id": 84825}], "successors": [{"name": "신도비", "id": 840596}]}
+{"name": "기념비", "id": 63523, "predecessors": [{"name": "기억", "id": 143110}], "successors": [{"name": "신도비", "id": 840596}, {"name": "사적비", "id": 1305126}, {"name": "유허비", "id": 1306272}, {"name": "묘비", "id": 1386781}]}

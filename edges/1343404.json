@@ -1,1 +1,1 @@
-{"name": "대전차_미사일", "id": 1343404, "predecessors": [{"name": "무기", "id": 13705}, {"name": "로켓", "id": 49410}], "successors": []}
+{"name": "대전차_미사일", "id": 1343404, "predecessors": [{"name": "전차", "id": 43404}, {"name": "로켓", "id": 49410}], "successors": []}

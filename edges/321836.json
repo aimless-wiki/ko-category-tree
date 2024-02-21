@@ -1,1 +1,1 @@
-{"name": "학술지", "id": 321836, "predecessors": [{"name": "학술_출판", "id": 1051390}, {"name": "대중_매체", "id": 15146}], "successors": [{"name": "영어_학술지", "id": 1051399}]}
+{"name": "학술지", "id": 321836, "predecessors": [{"name": "학술_출판", "id": 1051390}, {"name": "대중_매체", "id": 15146}], "successors": []}

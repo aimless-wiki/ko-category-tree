@@ -1,1 +1,1 @@
-{"name": "보주의_철도역", "id": 3178095, "predecessors": [{"name": "내륙국", "id": 55428}, {"name": "철도_교통", "id": 14768}], "successors": []}
+{"name": "보주의_철도역", "id": 3178095, "predecessors": [{"name": "행정_구역", "id": 30195}, {"name": "내륙국", "id": 55428}, {"name": "대륙", "id": 11805}], "successors": []}

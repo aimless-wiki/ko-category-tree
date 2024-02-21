@@ -1,1 +1,1 @@
-{"name": "맥_OS", "id": 512933, "predecessors": [{"name": "애플의_운영_체제", "id": 469318}, {"name": "애플", "id": 535728}], "successors": [{"name": "MacOS_소프트웨어", "id": 953844}]}
+{"name": "맥_OS", "id": 512933, "predecessors": [{"name": "애플의_운영_체제", "id": 469318}, {"name": "개인용_컴퓨터", "id": 74766}], "successors": []}

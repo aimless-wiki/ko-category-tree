@@ -1,1 +1,1 @@
-{"name": "과즙", "id": 545723, "predecessors": [{"name": "과일", "id": 31600}, {"name": "음료", "id": 33272}, {"name": "음식", "id": 10475}], "successors": []}
+{"name": "과즙", "id": 545723, "predecessors": [{"name": "과일", "id": 31600}], "successors": []}

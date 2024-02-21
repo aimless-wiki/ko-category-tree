@@ -1,1 +1,1 @@
-{"name": "향신채", "id": 2010608, "predecessors": [{"name": "향신료", "id": 381147}, {"name": "농업", "id": 56133}], "successors": [{"name": "허브", "id": 46093}, {"name": "고추", "id": 1819691}]}
+{"name": "향신채", "id": 2010608, "predecessors": [{"name": "음식", "id": 10475}], "successors": [{"name": "허브", "id": 46093}, {"name": "고추", "id": 1819691}]}

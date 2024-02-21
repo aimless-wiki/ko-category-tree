@@ -1,1 +1,1 @@
-{"name": "HTTP", "id": 748834, "predecessors": [{"name": "W3C_표준", "id": 15004}, {"name": "웹_개발", "id": 361127}, {"name": "응용_계층_프로토콜", "id": 927488}], "successors": [{"name": "웹_브라우저", "id": 15130}]}
+{"name": "HTTP", "id": 748834, "predecessors": [{"name": "W3C_표준", "id": 15004}, {"name": "웹_개발", "id": 361127}], "successors": []}

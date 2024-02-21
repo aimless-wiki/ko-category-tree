@@ -1,1 +1,1 @@
-{"name": "정치_용어", "id": 32606, "predecessors": [{"name": "정치", "id": 8537}], "successors": [{"name": "정치학_용어", "id": 127103}]}
+{"name": "정치_용어", "id": 32606, "predecessors": [{"name": "정치", "id": 8537}, {"name": "기술", "id": 15132}], "successors": [{"name": "정치학_용어", "id": 127103}]}

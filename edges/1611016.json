@@ -1,1 +1,1 @@
-{"name": "고양이_질병", "id": 1611016, "predecessors": [{"name": "동물_질병", "id": 595667}], "successors": []}
+{"name": "고양이_질병", "id": 1611016, "predecessors": [{"name": "동물_질병", "id": 595667}, {"name": "가축", "id": 71943}], "successors": []}

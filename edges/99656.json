@@ -1,1 +1,1 @@
-{"name": "식기", "id": 99656, "predecessors": [{"name": "생활용품", "id": 63046}, {"name": "가정", "id": 273758}], "successors": [{"name": "잔", "id": 769980}, {"name": "주전자", "id": 1108860}]}
+{"name": "식기", "id": 99656, "predecessors": [{"name": "생활용품", "id": 63046}, {"name": "가정", "id": 273758}, {"name": "도구", "id": 30522}], "successors": [{"name": "주전자", "id": 1108860}]}

@@ -1,1 +1,1 @@
-{"name": "국경역", "id": 3604831, "predecessors": [{"name": "정치지리학", "id": 23349}, {"name": "철도_교통", "id": 14768}, {"name": "철도역", "id": 102763}], "successors": []}
+{"name": "국경역", "id": 3604831, "predecessors": [{"name": "정치지리학", "id": 23349}, {"name": "교통", "id": 11844}], "successors": []}

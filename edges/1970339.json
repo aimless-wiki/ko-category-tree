@@ -1,1 +1,1 @@
-{"name": "양젖_치즈", "id": 1970339, "predecessors": [{"name": "발효_유제품", "id": 1896859}], "successors": []}
+{"name": "양젖_치즈", "id": 1970339, "predecessors": [{"name": "발효_유제품", "id": 1896859}, {"name": "가축", "id": 71943}], "successors": []}

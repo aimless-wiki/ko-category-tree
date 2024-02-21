@@ -1,1 +1,1 @@
-{"name": "소방_설비", "id": 693267, "predecessors": [{"name": "공공_서비스", "id": 395659}, {"name": "문화", "id": 11876}], "successors": []}
+{"name": "소방_설비", "id": 693267, "predecessors": [{"name": "공공_서비스", "id": 395659}, {"name": "도구", "id": 30522}], "successors": []}

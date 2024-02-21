@@ -1,1 +1,1 @@
-{"name": "여왕", "id": 405419, "predecessors": [{"name": "인간_관계", "id": 74502}, {"name": "독재", "id": 53598}], "successors": [{"name": "엘리자베스_2세", "id": 1482502}]}
+{"name": "여왕", "id": 405419, "predecessors": [{"name": "인간_관계", "id": 74502}, {"name": "독재", "id": 53598}, {"name": "귀족", "id": 98747}], "successors": []}

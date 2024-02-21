@@ -1,1 +1,1 @@
-{"name": "IOC_위원", "id": 142866, "predecessors": [{"name": "스포츠_행정_기구", "id": 498045}, {"name": "경영직", "id": 48603}, {"name": "국제_스포츠_대회", "id": 491294}], "successors": []}
+{"name": "IOC_위원", "id": 142866, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}, {"name": "경영직", "id": 48603}], "successors": []}

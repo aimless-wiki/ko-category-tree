@@ -1,1 +1,1 @@
-{"name": "법_윤리", "id": 1944077, "predecessors": [{"name": "법철학", "id": 195744}], "successors": [{"name": "법학", "id": 41208}, {"name": "채권법", "id": 136575}]}
+{"name": "법_윤리", "id": 1944077, "predecessors": [{"name": "법철학", "id": 195744}, {"name": "사회철학", "id": 33019}], "successors": [{"name": "법학", "id": 41208}, {"name": "채권법", "id": 136575}]}

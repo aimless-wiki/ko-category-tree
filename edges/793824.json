@@ -1,1 +1,1 @@
-{"name": "가공의_특수부대_요원", "id": 793824, "predecessors": [{"name": "군사_교리", "id": 779755}], "successors": [{"name": "S.H.I.E.L.D._요원", "id": 1477629}]}
+{"name": "가공의_특수부대_요원", "id": 793824, "predecessors": [{"name": "가공의_군인", "id": 155773}, {"name": "군사", "id": 30023}], "successors": [{"name": "S.H.I.E.L.D._요원", "id": 1477629}]}

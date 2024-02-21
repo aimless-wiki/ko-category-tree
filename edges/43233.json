@@ -1,1 +1,1 @@
-{"name": "위키백과_지침", "id": 43233, "predecessors": [{"name": "위키백과_관리", "id": 39546}], "successors": [{"name": "위키백과_외래어_표기법", "id": 68630}]}
+{"name": "위키백과_지침", "id": 43233, "predecessors": [{"name": "위키백과", "id": 11258}], "successors": [{"name": "위키백과_외래어_표기법", "id": 68630}]}

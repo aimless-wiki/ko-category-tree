@@ -1,1 +1,1 @@
-{"name": "폭탄", "id": 47303, "predecessors": [{"name": "폭발물", "id": 112031}, {"name": "군사_기술", "id": 49576}], "successors": [{"name": "항공기용_폭탄", "id": 47302}]}
+{"name": "폭탄", "id": 47303, "predecessors": [{"name": "무기", "id": 13705}, {"name": "군사_기술", "id": 49576}], "successors": [{"name": "항공기용_폭탄", "id": 47302}]}

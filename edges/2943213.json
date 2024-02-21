@@ -1,1 +1,1 @@
-{"name": "Qt를_사용하는_소프트웨어", "id": 2943213, "predecessors": [{"name": "소셜_네트워크", "id": 564972}, {"name": "C++_라이브러리", "id": 77084}], "successors": [{"name": "심비안_OS_소프트웨어", "id": 638032}]}
+{"name": "Qt를_사용하는_소프트웨어", "id": 2943213, "predecessors": [{"name": "라이브러리", "id": 115982}, {"name": "API", "id": 74093}], "successors": []}

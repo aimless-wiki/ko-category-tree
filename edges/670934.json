@@ -1,1 +1,1 @@
-{"name": "환경화학", "id": 670934, "predecessors": [{"name": "환경과학", "id": 112145}, {"name": "화학", "id": 12062}], "successors": [{"name": "온실_기체", "id": 56817}]}
+{"name": "환경화학", "id": 670934, "predecessors": [{"name": "환경과학", "id": 112145}, {"name": "학문_분야", "id": 275046}], "successors": [{"name": "온실_기체", "id": 56817}]}

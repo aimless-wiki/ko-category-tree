@@ -1,1 +1,1 @@
-{"name": "함수해석학", "id": 112197, "predecessors": [{"name": "해석학_(수학)", "id": 49090}], "successors": []}
+{"name": "함수해석학", "id": 112197, "predecessors": [{"name": "해석학_(수학)", "id": 49090}], "successors": [{"name": "측도론", "id": 112194}, {"name": "연산자_이론", "id": 232676}]}

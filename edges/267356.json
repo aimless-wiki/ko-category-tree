@@ -1,1 +1,1 @@
-{"name": "약용식물", "id": 267356, "predecessors": [{"name": "음식", "id": 10475}, {"name": "식물학", "id": 12237}, {"name": "식물", "id": 9142}, {"name": "약리학", "id": 101922}], "successors": [{"name": "인삼", "id": 691739}]}
+{"name": "약용식물", "id": 267356, "predecessors": [{"name": "음식", "id": 10475}, {"name": "식물학", "id": 12237}, {"name": "식물", "id": 9142}], "successors": [{"name": "인삼", "id": 691739}]}

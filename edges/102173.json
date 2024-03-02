@@ -1,1 +1,1 @@
-{"name": "일반위상수학", "id": 102173, "predecessors": [{"name": "위상수학", "id": 6571}], "successors": []}
+{"name": "일반위상수학", "id": 102173, "predecessors": [{"name": "위상수학", "id": 6571}], "successors": [{"name": "위상_공간의_성질", "id": 106417}]}

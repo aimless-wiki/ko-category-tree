@@ -1,1 +1,1 @@
-{"name": "신경학", "id": 33340, "predecessors": [{"name": "신경과학", "id": 33341}, {"name": "의학", "id": 11731}], "successors": [{"name": "감각", "id": 41951}]}
+{"name": "신경학", "id": 33340, "predecessors": [{"name": "신경과학", "id": 33341}, {"name": "건강", "id": 48996}], "successors": [{"name": "감각", "id": 41951}]}

@@ -1,1 +1,1 @@
-{"name": "로켓_엔진", "id": 326395, "predecessors": [{"name": "물리학", "id": 10482}], "successors": [{"name": "로켓_엔진_제조업체", "id": 2838160}]}
+{"name": "로켓_엔진", "id": 326395, "predecessors": [{"name": "로켓_추진", "id": 3781022}], "successors": [{"name": "로켓_엔진_제조업체", "id": 2838160}]}

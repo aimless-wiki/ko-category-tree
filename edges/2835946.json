@@ -1,1 +1,1 @@
-{"name": "자동차_연료_소매업체", "id": 2835946, "predecessors": [{"name": "상업", "id": 34131}, {"name": "석유", "id": 23396}, {"name": "교통", "id": 11844}], "successors": []}
+{"name": "자동차_연료_소매업체", "id": 2835946, "predecessors": [{"name": "석유", "id": 23396}, {"name": "교통", "id": 11844}, {"name": "상업", "id": 34131}], "successors": []}

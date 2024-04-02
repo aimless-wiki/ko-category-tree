@@ -1,1 +1,1 @@
-{"name": "ZX_스펙트럼_게임", "id": 1670235, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "마이크로프로세서", "id": 19593}], "successors": []}
+{"name": "ZX_스펙트럼_게임", "id": 1670235, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "컴퓨터의_유형", "id": 159929}], "successors": []}

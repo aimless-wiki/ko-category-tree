@@ -1,1 +1,1 @@
-{"name": "일본의_의사", "id": 128333, "predecessors": [{"name": "의료", "id": 51958}, {"name": "일본_사람", "id": 39088}], "successors": []}
+{"name": "일본의_의사", "id": 128333, "predecessors": [{"name": "일본_사람", "id": 39088}, {"name": "건강", "id": 48996}], "successors": []}

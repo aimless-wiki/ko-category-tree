@@ -1,1 +1,1 @@
-{"name": "학술회의", "id": 254857, "predecessors": [{"name": "학문", "id": 15930}, {"name": "의사소통", "id": 82826}, {"name": "교육", "id": 11817}], "successors": []}
+{"name": "학술회의", "id": 254857, "predecessors": [{"name": "학문", "id": 15930}, {"name": "회의", "id": 254853}, {"name": "교육", "id": 11817}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "곤충학", "id": 48608, "predecessors": [{"name": "동물학", "id": 12309}], "successors": [{"name": "곤충", "id": 10360}, {"name": "농업해충", "id": 783413}]}
+{"name": "곤충학", "id": 48608, "predecessors": [{"name": "동물학", "id": 12309}], "successors": [{"name": "곤충", "id": 10360}, {"name": "살충제", "id": 577926}, {"name": "농업해충", "id": 783413}]}

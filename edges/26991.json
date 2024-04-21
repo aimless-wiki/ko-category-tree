@@ -1,1 +1,1 @@
-{"name": "바로크_시대_작곡가", "id": 26991, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "문화", "id": 11876}], "successors": []}
+{"name": "바로크_시대_작곡가", "id": 26991, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "바로크_음악", "id": 46125}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "음악_기법", "id": 13207, "predecessors": [{"name": "음악_이론", "id": 46118}, {"name": "미술_기법", "id": 472136}], "successors": []}
+{"name": "음악_기법", "id": 13207, "predecessors": [{"name": "예술_기법", "id": 2835772}, {"name": "음악_이론", "id": 46118}], "successors": []}

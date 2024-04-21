@@ -1,1 +1,1 @@
-{"name": "음이온", "id": 40395, "predecessors": [{"name": "이온", "id": 40392}], "successors": [{"name": "황산염", "id": 290766}, {"name": "유기_인산염", "id": 3674628}]}
+{"name": "음이온", "id": 40395, "predecessors": [{"name": "이온", "id": 40392}], "successors": [{"name": "황산염", "id": 290766}, {"name": "피로인산염", "id": 3079309}, {"name": "유기_인산염", "id": 3674628}]}

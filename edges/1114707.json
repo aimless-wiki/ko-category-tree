@@ -1,1 +1,1 @@
-{"name": "스페인의_SF_영화", "id": 1114707, "predecessors": [{"name": "예술", "id": 4393}, {"name": "스페인의_영화_작품", "id": 434039}, {"name": "문학_장르", "id": 141656}], "successors": []}
+{"name": "스페인의_SF_영화", "id": 1114707, "predecessors": [{"name": "SF", "id": 370367}, {"name": "스페인의_영화_작품", "id": 434039}], "successors": []}

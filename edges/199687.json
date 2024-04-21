@@ -1,1 +1,1 @@
-{"name": "사무기기", "id": 199687, "predecessors": [{"name": "도구", "id": 30522}, {"name": "경영", "id": 48602}, {"name": "대중_매체", "id": 15146}], "successors": [{"name": "문방구", "id": 518557}]}
+{"name": "사무기기", "id": 199687, "predecessors": [{"name": "도구", "id": 30522}, {"name": "미디어_기술", "id": 2836626}, {"name": "경영", "id": 48602}], "successors": [{"name": "문방구", "id": 518557}]}

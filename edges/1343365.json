@@ -1,1 +1,1 @@
-{"name": "순항_미사일", "id": 1343365, "predecessors": [{"name": "무인_항공기", "id": 45623}], "successors": []}
+{"name": "순항_미사일", "id": 1343365, "predecessors": [{"name": "미사일", "id": 1330728}], "successors": []}

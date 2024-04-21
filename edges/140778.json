@@ -1,1 +1,1 @@
-{"name": "투자은행", "id": 140778, "predecessors": [{"name": "경제", "id": 11654}, {"name": "은행업", "id": 733231}], "successors": []}
+{"name": "투자은행", "id": 140778, "predecessors": [{"name": "은행", "id": 20027}, {"name": "은행업", "id": 733231}], "successors": []}

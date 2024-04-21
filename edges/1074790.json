@@ -1,1 +1,1 @@
-{"name": "UEFA_유럽_축구_선수권_대회_결승전", "id": 1074790, "predecessors": [{"name": "의사소통", "id": 82826}, {"name": "문화", "id": 11876}], "successors": []}
+{"name": "UEFA_유럽_축구_선수권_대회_결승전", "id": 1074790, "predecessors": [{"name": "의사소통", "id": 82826}, {"name": "유럽_선수권_대회", "id": 925228}], "successors": []}

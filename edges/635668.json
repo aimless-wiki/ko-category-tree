@@ -1,1 +1,1 @@
-{"name": "USB", "id": 635668, "predecessors": [{"name": "컴퓨터_하드웨어_표준", "id": 662634}, {"name": "컴퓨터_네트워크", "id": 33911}], "successors": [{"name": "라이브_USB", "id": 2927314}]}
+{"name": "USB", "id": 635668, "predecessors": [{"name": "컴퓨터_하드웨어_표준", "id": 662634}], "successors": [{"name": "라이브_USB", "id": 2927314}]}

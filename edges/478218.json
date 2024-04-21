@@ -1,1 +1,1 @@
-{"name": "소화계", "id": 478218, "predecessors": [{"name": "해부학", "id": 13494}], "successors": []}
+{"name": "소화계", "id": 478218, "predecessors": [{"name": "인체해부학", "id": 23087}, {"name": "해부학", "id": 13494}], "successors": []}

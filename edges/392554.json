@@ -1,1 +1,1 @@
-{"name": "가공의_경찰관", "id": 392554, "predecessors": [{"name": "가공의_사람", "id": 40106}, {"name": "경찰", "id": 173142}], "successors": []}
+{"name": "가공의_경찰관", "id": 392554, "predecessors": [{"name": "가공의_사람", "id": 40106}, {"name": "경찰", "id": 173142}], "successors": [{"name": "가공의_형사", "id": 454368}]}

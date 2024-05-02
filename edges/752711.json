@@ -1,1 +1,1 @@
-{"name": "장식_미술관", "id": 752711, "predecessors": [{"name": "장식_예술", "id": 427959}, {"name": "미술", "id": 13227}], "successors": []}
+{"name": "장식_미술관", "id": 752711, "predecessors": [{"name": "장식_예술", "id": 427959}, {"name": "미술", "id": 13227}], "successors": [{"name": "고택_박물관", "id": 3212944}]}

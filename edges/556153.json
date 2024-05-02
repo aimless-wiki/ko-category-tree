@@ -1,1 +1,1 @@
-{"name": "가격_결정", "id": 556153, "predecessors": [{"name": "마케팅", "id": 56677}, {"name": "사업", "id": 56679}], "successors": [{"name": "비용", "id": 33976}, {"name": "프리웨어", "id": 85759}]}
+{"name": "가격_결정", "id": 556153, "predecessors": [{"name": "마케팅", "id": 56677}, {"name": "경제", "id": 11654}], "successors": [{"name": "비용", "id": 33976}, {"name": "프리웨어", "id": 85759}]}

@@ -1,1 +1,1 @@
-{"name": "남극의_섬", "id": 41621, "predecessors": [{"name": "지형", "id": 22389}, {"name": "대륙", "id": 11805}, {"name": "바다", "id": 11728}], "successors": []}
+{"name": "남극의_섬", "id": 41621, "predecessors": [{"name": "지형", "id": 22389}, {"name": "남극의_지리", "id": 106123}, {"name": "바다", "id": 11728}], "successors": []}

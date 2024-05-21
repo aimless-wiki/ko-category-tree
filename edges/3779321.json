@@ -1,1 +1,1 @@
-{"name": "우주왕복선_계획_우주인", "id": 3779321, "predecessors": [{"name": "NASA의_계획", "id": 1217423}, {"name": "NASA_사람", "id": 921987}], "successors": []}
+{"name": "우주왕복선_계획_우주인", "id": 3779321, "predecessors": [{"name": "NASA의_계획", "id": 1217423}, {"name": "NASA_사람", "id": 921987}, {"name": "우주_개발", "id": 44715}], "successors": []}

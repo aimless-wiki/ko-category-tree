@@ -1,1 +1,1 @@
-{"name": "부형제", "id": 528867, "predecessors": [{"name": "식품_첨가물", "id": 40398}, {"name": "화학_물질", "id": 31628}], "successors": []}
+{"name": "부형제", "id": 528867, "predecessors": [{"name": "식품_첨가물", "id": 40398}, {"name": "약리학", "id": 101922}, {"name": "화학_물질", "id": 31628}], "successors": []}

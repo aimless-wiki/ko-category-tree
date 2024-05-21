@@ -1,1 +1,1 @@
-{"name": "달걀_요리", "id": 539162, "predecessors": [{"name": "생식", "id": 146243}], "successors": [{"name": "커스터드_디저트", "id": 3637037}]}
+{"name": "달걀_요리", "id": 539162, "predecessors": [{"name": "생식", "id": 146243}, {"name": "재료", "id": 50188}], "successors": [{"name": "커스터드_디저트", "id": 3637037}]}

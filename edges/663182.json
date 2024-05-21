@@ -1,1 +1,1 @@
-{"name": "대전_대덕구의_교통", "id": 663182, "predecessors": [{"name": "대전광역시의_교통", "id": 69915}], "successors": []}
+{"name": "대전_대덕구의_교통", "id": 663182, "predecessors": [{"name": "대전광역시의_교통", "id": 69915}, {"name": "대전광역시", "id": 6121}], "successors": []}

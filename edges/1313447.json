@@ -1,1 +1,1 @@
-{"name": "유격대", "id": 1313447, "predecessors": [{"name": "유격전", "id": 1313440}, {"name": "유형별_전쟁", "id": 482313}], "successors": [{"name": "빨치산", "id": 800787}]}
+{"name": "유격대", "id": 1313447, "predecessors": [{"name": "유격전", "id": 1313440}, {"name": "사회", "id": 31673}], "successors": [{"name": "빨치산", "id": 800787}]}

@@ -1,1 +1,1 @@
-{"name": "청각_장애인", "id": 57026, "predecessors": [{"name": "장애인", "id": 51554}, {"name": "무음", "id": 776552}], "successors": []}
+{"name": "청각_장애인", "id": 57026, "predecessors": [{"name": "장애인", "id": 51554}, {"name": "소리", "id": 38960}], "successors": []}

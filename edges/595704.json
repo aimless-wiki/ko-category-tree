@@ -1,1 +1,1 @@
-{"name": "농구_정보_틀", "id": 595704, "predecessors": [{"name": "스포츠_정보_틀", "id": 348980}], "successors": []}
+{"name": "농구_정보_틀", "id": 595704, "predecessors": [{"name": "스포츠_정보_틀", "id": 348980}, {"name": "구기", "id": 11446}], "successors": []}

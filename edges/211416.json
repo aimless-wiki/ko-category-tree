@@ -1,1 +1,1 @@
-{"name": "가루", "id": 211416, "predecessors": [{"name": "재료", "id": 50188}], "successors": [{"name": "눈_(날씨)", "id": 369910}]}
+{"name": "가루", "id": 211416, "predecessors": [{"name": "재료", "id": 50188}, {"name": "투여_형태", "id": 612505}], "successors": [{"name": "눈_(날씨)", "id": 369910}]}

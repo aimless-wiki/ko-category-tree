@@ -1,1 +1,1 @@
-{"name": "육전", "id": 776882, "predecessors": [{"name": "유형별_전쟁", "id": 482313}, {"name": "군사", "id": 30023}], "successors": [{"name": "시가전", "id": 776875}]}
+{"name": "육전", "id": 776882, "predecessors": [{"name": "전쟁", "id": 11891}, {"name": "군사", "id": 30023}, {"name": "사회", "id": 31673}], "successors": [{"name": "시가전", "id": 776875}]}

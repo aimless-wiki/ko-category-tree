@@ -1,1 +1,1 @@
-{"name": "광합성", "id": 12238, "predecessors": [{"name": "물질대사", "id": 47774}, {"name": "생화학", "id": 12236}], "successors": [{"name": "카로티노이드", "id": 769368}]}
+{"name": "광합성", "id": 12238, "predecessors": [{"name": "물질대사", "id": 47774}, {"name": "생화학", "id": 12236}, {"name": "물리화학", "id": 49826}], "successors": [{"name": "카로티노이드", "id": 769368}]}

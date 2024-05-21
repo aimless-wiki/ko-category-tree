@@ -1,1 +1,1 @@
-{"name": "집단생태학", "id": 935009, "predecessors": [{"name": "인구", "id": 37989}, {"name": "생태학", "id": 31806}, {"name": "환경", "id": 12071}], "successors": []}
+{"name": "집단생태학", "id": 935009, "predecessors": [{"name": "개체군", "id": 3333219}, {"name": "인구", "id": 37989}, {"name": "생태학", "id": 31806}, {"name": "환경", "id": 12071}], "successors": []}

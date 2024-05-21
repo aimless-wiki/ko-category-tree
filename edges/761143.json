@@ -1,1 +1,1 @@
-{"name": "발전기", "id": 761143, "predecessors": [{"name": "신호_처리", "id": 71461}, {"name": "전기공학", "id": 33470}], "successors": []}
+{"name": "발전기", "id": 761143, "predecessors": [{"name": "신호_처리", "id": 71461}], "successors": []}

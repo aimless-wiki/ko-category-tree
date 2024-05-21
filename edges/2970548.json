@@ -1,1 +1,1 @@
-{"name": "탄수화물_화학", "id": 2970548, "predecessors": [{"name": "유기화학", "id": 32885}, {"name": "생화학", "id": 12236}], "successors": [{"name": "탄수화물", "id": 40388}]}
+{"name": "탄수화물_화학", "id": 2970548, "predecessors": [{"name": "유기화학", "id": 32885}, {"name": "화학", "id": 12062}, {"name": "생화학", "id": 12236}], "successors": [{"name": "탄수화물", "id": 40388}]}

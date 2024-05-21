@@ -1,1 +1,1 @@
-{"name": "이발", "id": 625700, "predecessors": [{"name": "미", "id": 531962}, {"name": "패션", "id": 33659}], "successors": [{"name": "머리_모양", "id": 662708}]}
+{"name": "이발", "id": 625700, "predecessors": [{"name": "미", "id": 531962}, {"name": "패션", "id": 33659}, {"name": "두경부", "id": 509770}], "successors": []}

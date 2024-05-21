@@ -1,1 +1,1 @@
-{"name": "형태론", "id": 41267, "predecessors": [{"name": "어원학", "id": 55702}, {"name": "지식_표현", "id": 275232}, {"name": "언어학", "id": 6424}], "successors": []}
+{"name": "형태론", "id": 41267, "predecessors": [{"name": "언어학", "id": 6424}, {"name": "지식_표현", "id": 275232}], "successors": [{"name": "SI_접두어", "id": 28766}]}

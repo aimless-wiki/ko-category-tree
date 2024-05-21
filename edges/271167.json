@@ -1,1 +1,1 @@
-{"name": "플래시_게임", "id": 271167, "predecessors": [{"name": "어도비_플래시", "id": 270317}], "successors": []}
+{"name": "플래시_게임", "id": 271167, "predecessors": [{"name": "온라인_게임", "id": 15440}, {"name": "스크립트_언어", "id": 15127}], "successors": []}

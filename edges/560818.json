@@ -1,1 +1,1 @@
-{"name": "성격", "id": 560818, "predecessors": [{"name": "마음", "id": 450214}], "successors": [{"name": "자기애", "id": 1114768}]}
+{"name": "성격", "id": 560818, "predecessors": [{"name": "심리철학", "id": 274976}, {"name": "마음", "id": 450214}], "successors": [{"name": "자기애", "id": 1114768}]}

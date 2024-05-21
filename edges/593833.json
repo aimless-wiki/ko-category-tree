@@ -1,1 +1,1 @@
-{"name": "해독제", "id": 593833, "predecessors": [{"name": "독물학", "id": 33722}], "successors": []}
+{"name": "해독제", "id": 593833, "predecessors": [{"name": "독물학", "id": 33722}, {"name": "약리학", "id": 101922}], "successors": []}

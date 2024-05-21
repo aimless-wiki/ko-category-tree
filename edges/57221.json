@@ -1,1 +1,1 @@
-{"name": "용매", "id": 57221, "predecessors": [{"name": "용액", "id": 281308}], "successors": [{"name": "물", "id": 29686}, {"name": "탄화수소_용매", "id": 2492894}]}
+{"name": "용매", "id": 57221, "predecessors": [{"name": "화학_물질", "id": 31628}], "successors": [{"name": "물", "id": 29686}, {"name": "탄화수소_용매", "id": 2492894}]}

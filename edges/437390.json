@@ -1,1 +1,1 @@
-{"name": "파생_상품", "id": 437390, "predecessors": [{"name": "금융시장", "id": 15416}, {"name": "증권", "id": 275608}, {"name": "상법", "id": 11505}], "successors": []}
+{"name": "파생_상품", "id": 437390, "predecessors": [{"name": "금융시장", "id": 15416}, {"name": "상법", "id": 11505}], "successors": []}

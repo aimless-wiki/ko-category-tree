@@ -1,1 +1,1 @@
-{"name": "수학_연구소", "id": 50774, "predecessors": [{"name": "과학_단체", "id": 646617}], "successors": [{"name": "기초과학연구원", "id": 3137438}]}
+{"name": "수학_연구소", "id": 50774, "predecessors": [{"name": "과학_단체", "id": 646617}, {"name": "사회", "id": 31673}], "successors": [{"name": "기초과학연구원", "id": 3137438}]}

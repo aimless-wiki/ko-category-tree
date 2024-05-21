@@ -1,1 +1,1 @@
-{"name": "목_매달아_자살한_사람", "id": 773757, "predecessors": [{"name": "자살한_사람", "id": 38953}], "successors": []}
+{"name": "목_매달아_자살한_사람", "id": 773757, "predecessors": [{"name": "사형_방법", "id": 695192}, {"name": "자살한_사람", "id": 38953}], "successors": []}

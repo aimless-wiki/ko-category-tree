@@ -1,1 +1,1 @@
-{"name": "브라우저_게임", "id": 335515, "predecessors": [{"name": "월드_와이드_웹", "id": 15133}], "successors": []}
+{"name": "브라우저_게임", "id": 335515, "predecessors": [{"name": "온라인_게임", "id": 15440}, {"name": "월드_와이드_웹", "id": 15133}], "successors": []}

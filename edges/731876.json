@@ -1,1 +1,1 @@
-{"name": "이름_(인명)", "id": 731876, "predecessors": [{"name": "인명", "id": 361207}, {"name": "가문", "id": 266552}], "successors": [{"name": "남성명", "id": 506876}]}
+{"name": "이름_(인명)", "id": 731876, "predecessors": [{"name": "인명", "id": 361207}, {"name": "친족", "id": 343324}], "successors": [{"name": "남성명", "id": 506876}]}

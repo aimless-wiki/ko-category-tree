@@ -1,1 +1,1 @@
-{"name": "항공모함", "id": 50689, "predecessors": [{"name": "군함", "id": 41358}, {"name": "해군", "id": 41359}], "successors": []}
+{"name": "항공모함", "id": 50689, "predecessors": [{"name": "군함", "id": 41358}, {"name": "해군", "id": 41359}], "successors": [{"name": "미국의_항공모함", "id": 84007}]}

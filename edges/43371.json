@@ -1,1 +1,1 @@
-{"name": "토성_탐사선", "id": 43371, "predecessors": [{"name": "천체", "id": 12759}, {"name": "우주_탐사", "id": 213057}], "successors": []}
+{"name": "토성_탐사선", "id": 43371, "predecessors": [{"name": "우주_탐사", "id": 213057}, {"name": "목성형_행성", "id": 658425}], "successors": []}

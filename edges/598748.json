@@ -1,1 +1,1 @@
-{"name": "FC_카르타헤나의_축구_선수", "id": 598748, "predecessors": [{"name": "행정_구역", "id": 30195}, {"name": "축구인", "id": 458036}], "successors": []}
+{"name": "FC_카르타헤나의_축구_선수", "id": 598748, "predecessors": [{"name": "행정_구역_단위", "id": 581695}, {"name": "축구인", "id": 458036}], "successors": []}

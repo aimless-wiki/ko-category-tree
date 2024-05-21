@@ -1,1 +1,1 @@
-{"name": "뿌리채소", "id": 56309, "predecessors": [{"name": "음식", "id": 10475}], "successors": [{"name": "감자_요리", "id": 221463}, {"name": "카사바_요리", "id": 3042630}]}
+{"name": "뿌리채소", "id": 56309, "predecessors": [{"name": "농작물", "id": 33274}], "successors": [{"name": "감자_요리", "id": 221463}, {"name": "카사바_요리", "id": 3042630}]}

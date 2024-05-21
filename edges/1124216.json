@@ -1,1 +1,1 @@
-{"name": "FIFA_월드컵_오세아니아_지역_예선", "id": 1124216, "predecessors": [{"name": "스포츠_행정_기구", "id": 498045}], "successors": []}
+{"name": "FIFA_월드컵_오세아니아_지역_예선", "id": 1124216, "predecessors": [{"name": "대회", "id": 116658}, {"name": "생활", "id": 15596}], "successors": []}

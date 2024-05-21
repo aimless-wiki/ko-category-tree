@@ -1,1 +1,1 @@
-{"name": "FIFA_비치사커_월드컵", "id": 368483, "predecessors": [{"name": "사회", "id": 31673}], "successors": []}
+{"name": "FIFA_비치사커_월드컵", "id": 368483, "predecessors": [{"name": "세계_선수권_대회", "id": 360248}, {"name": "IOC_공인_국제_연맹", "id": 979827}, {"name": "생활", "id": 15596}], "successors": []}

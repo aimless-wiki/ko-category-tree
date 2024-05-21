@@ -1,1 +1,1 @@
-{"name": "클래식_기타_작곡가", "id": 1823679, "predecessors": [{"name": "예술_장르", "id": 2835674}], "successors": []}
+{"name": "클래식_기타_작곡가", "id": 1823679, "predecessors": [{"name": "기타", "id": 35788}, {"name": "악기", "id": 12128}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "2023년_날짜", "id": 3336170, "predecessors": [{"name": "미래", "id": 384303}], "successors": []}
+{"name": "2023년_날짜", "id": 3336170, "predecessors": [{"name": "연도별_날짜", "id": 1788654}, {"name": "시간", "id": 31936}], "successors": []}

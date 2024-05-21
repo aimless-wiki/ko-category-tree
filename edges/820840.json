@@ -1,1 +1,1 @@
-{"name": "약물에_의해_죽은_사람", "id": 820840, "predecessors": [{"name": "의료_윤리", "id": 43695}], "successors": []}
+{"name": "약물에_의해_죽은_사람", "id": 820840, "predecessors": [{"name": "사인별_죽음", "id": 119637}, {"name": "정신_및_행동_장애", "id": 256009}], "successors": []}

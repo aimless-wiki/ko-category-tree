@@ -1,1 +1,1 @@
-{"name": "고딕_영화", "id": 1427810, "predecessors": [{"name": "공포물", "id": 652772}, {"name": "공포_영화", "id": 62377}], "successors": []}
+{"name": "고딕_영화", "id": 1427810, "predecessors": [{"name": "공포_영화", "id": 62377}, {"name": "문학_장르", "id": 141656}], "successors": []}

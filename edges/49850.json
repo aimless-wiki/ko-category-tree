@@ -1,1 +1,1 @@
-{"name": "한의학", "id": 49850, "predecessors": [{"name": "건강", "id": 48996}], "successors": [{"name": "대한민국의_한의사", "id": 935799}]}
+{"name": "한의학", "id": 49850, "predecessors": [{"name": "전통의학", "id": 1658714}, {"name": "건강", "id": 48996}], "successors": [{"name": "대한민국의_한의사", "id": 935799}]}

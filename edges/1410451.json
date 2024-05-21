@@ -1,1 +1,1 @@
-{"name": "야간열차", "id": 1410451, "predecessors": [{"name": "밤", "id": 428777}, {"name": "관광", "id": 55754}, {"name": "철도_교통", "id": 14768}], "successors": []}
+{"name": "야간열차", "id": 1410451, "predecessors": [{"name": "밤", "id": 428777}, {"name": "숙박_시설", "id": 284418}], "successors": []}

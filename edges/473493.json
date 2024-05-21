@@ -1,1 +1,1 @@
-{"name": "추락사한_사람", "id": 473493, "predecessors": [{"name": "사고사한_사람", "id": 405876}], "successors": []}
+{"name": "추락사한_사람", "id": 473493, "predecessors": [{"name": "사고사한_사람", "id": 405876}, {"name": "중력", "id": 20673}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "항경련제", "id": 593611, "predecessors": [{"name": "발작을_일으키는_장애", "id": 3780296}], "successors": []}
+{"name": "항경련제", "id": 593611, "predecessors": [{"name": "발작을_일으키는_장애", "id": 3780296}, {"name": "약리학", "id": 101922}], "successors": []}

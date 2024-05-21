@@ -1,1 +1,1 @@
-{"name": "스튜", "id": 210477, "predecessors": [{"name": "서양_문화", "id": 275027}], "successors": []}
+{"name": "스튜", "id": 210477, "predecessors": [{"name": "국물_요리", "id": 1872716}, {"name": "서양_문화", "id": 275027}, {"name": "조리법", "id": 625821}], "successors": []}

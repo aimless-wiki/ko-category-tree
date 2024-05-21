@@ -1,1 +1,1 @@
-{"name": "신장_비뇨기_질환", "id": 677557, "predecessors": [{"name": "질병", "id": 11913}], "successors": []}
+{"name": "신장_비뇨기_질환", "id": 677557, "predecessors": [{"name": "내분비계", "id": 478215}, {"name": "의학_분야", "id": 48482}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "XML_기반_표준", "id": 68422, "predecessors": [{"name": "XML", "id": 29844}, {"name": "컴퓨터_표준", "id": 662635}], "successors": []}
+{"name": "XML_기반_표준", "id": 68422, "predecessors": [{"name": "XML", "id": 29844}, {"name": "컴퓨터_표준", "id": 662635}, {"name": "데이터_전송", "id": 104332}], "successors": []}

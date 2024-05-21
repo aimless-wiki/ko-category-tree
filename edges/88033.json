@@ -1,1 +1,1 @@
-{"name": "영상_저장_매체", "id": 88033, "predecessors": [{"name": "비디오", "id": 98469}, {"name": "디지털_미디어", "id": 101767}, {"name": "데이터_관리", "id": 33944}], "successors": [{"name": "DVD", "id": 120708}, {"name": "CD", "id": 124432}]}
+{"name": "영상_저장_매체", "id": 88033, "predecessors": [{"name": "비디오", "id": 98469}, {"name": "디지털_미디어", "id": 101767}, {"name": "데이터_관리", "id": 33944}], "successors": [{"name": "DVD", "id": 120708}]}

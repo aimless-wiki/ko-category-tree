@@ -1,1 +1,1 @@
-{"name": "KBO_리그_지명_타자", "id": 285299, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}], "successors": []}
+{"name": "KBO_리그_지명_타자", "id": 285299, "predecessors": [{"name": "야구_포지션", "id": 462449}, {"name": "야구_규칙", "id": 462461}], "successors": []}

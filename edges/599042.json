@@ -1,1 +1,1 @@
-{"name": "일본에서_일어난_항공_사고", "id": 599042, "predecessors": [{"name": "교통", "id": 11844}, {"name": "안전", "id": 31670}], "successors": []}
+{"name": "일본에서_일어난_항공_사고", "id": 599042, "predecessors": [{"name": "교통", "id": 11844}, {"name": "항공_교통", "id": 40994}, {"name": "안전", "id": 31670}], "successors": []}

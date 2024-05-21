@@ -1,1 +1,1 @@
-{"name": "FIFA_월드컵_경기", "id": 1074769, "predecessors": [{"name": "의사소통", "id": 82826}], "successors": [{"name": "FIFA_월드컵_결승전", "id": 637288}]}
+{"name": "FIFA_월드컵_경기", "id": 1074769, "predecessors": [{"name": "IOC_공인_국제_연맹", "id": 979827}, {"name": "생활", "id": 15596}], "successors": [{"name": "FIFA_월드컵_결승전", "id": 637288}]}

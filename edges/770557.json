@@ -1,1 +1,1 @@
-{"name": "항공_학교", "id": 770557, "predecessors": [{"name": "항공_교통", "id": 40994}, {"name": "공기역학", "id": 62802}, {"name": "건축물", "id": 28224}], "successors": []}
+{"name": "항공_학교", "id": 770557, "predecessors": [{"name": "항공", "id": 40994}, {"name": "공기역학", "id": 62802}, {"name": "건축물", "id": 28224}], "successors": []}

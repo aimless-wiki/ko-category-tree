@@ -1,1 +1,1 @@
-{"name": "원월드", "id": 92821, "predecessors": [{"name": "항공_교통", "id": 40994}], "successors": [{"name": "일본항공", "id": 76370}, {"name": "콴타스_항공", "id": 427184}, {"name": "LAN_항공", "id": 818200}]}
+{"name": "원월드", "id": 92821, "predecessors": [{"name": "항공", "id": 40994}], "successors": [{"name": "일본항공", "id": 76370}, {"name": "콴타스_항공", "id": 427184}, {"name": "LAN_항공", "id": 818200}]}

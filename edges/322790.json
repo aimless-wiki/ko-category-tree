@@ -1,1 +1,1 @@
-{"name": "충청남도의_버스_교통", "id": 322790, "predecessors": [{"name": "대중_교통", "id": 40988}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "충청남도의_버스_교통", "id": 322790, "predecessors": [{"name": "충청남도", "id": 9058}, {"name": "대중_교통", "id": 40988}], "successors": []}

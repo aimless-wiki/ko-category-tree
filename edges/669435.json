@@ -1,1 +1,1 @@
-{"name": "수호이_항공기", "id": 669435, "predecessors": [{"name": "탈것", "id": 41512}], "successors": []}
+{"name": "수호이_항공기", "id": 669435, "predecessors": [{"name": "항공기", "id": 30021}, {"name": "탈것", "id": 41512}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "리그_1의_축구_선수", "id": 1121936, "predecessors": [{"name": "축구인", "id": 458036}, {"name": "역사", "id": 8923}], "successors": []}
+{"name": "리그_1의_축구_선수", "id": 1121936, "predecessors": [{"name": "스포츠_관련_직업", "id": 274212}, {"name": "시간", "id": 31936}], "successors": []}

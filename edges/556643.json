@@ -1,1 +1,1 @@
-{"name": "포켓_PC_소프트웨어", "id": 556643, "predecessors": [{"name": "PDA", "id": 10187}], "successors": []}
+{"name": "포켓_PC_소프트웨어", "id": 556643, "predecessors": [{"name": "소셜_네트워크", "id": 564972}, {"name": "PDA", "id": 10187}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "세법", "id": 242117, "predecessors": [{"name": "조세", "id": 34295}, {"name": "법", "id": 130821}], "successors": []}
+{"name": "세법", "id": 242117, "predecessors": [{"name": "조세", "id": 34295}, {"name": "법", "id": 130821}, {"name": "행정법", "id": 247238}], "successors": []}

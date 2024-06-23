@@ -1,1 +1,1 @@
-{"name": "나는_가수다에_출연한_가수", "id": 739325, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "대회", "id": 116658}], "successors": []}
+{"name": "나는_가수다에_출연한_가수", "id": 739325, "predecessors": [{"name": "가창", "id": 934634}, {"name": "대회", "id": 116658}], "successors": []}

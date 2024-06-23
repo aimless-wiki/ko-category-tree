@@ -1,1 +1,1 @@
-{"name": "나폴리_지하철역", "id": 3336795, "predecessors": [{"name": "유럽_연합_회원국", "id": 600344}, {"name": "대중_교통", "id": 40988}, {"name": "사회", "id": 31673}], "successors": []}
+{"name": "나폴리_지하철역", "id": 3336795, "predecessors": [{"name": "사회", "id": 31673}, {"name": "대중_교통", "id": 40988}], "successors": []}

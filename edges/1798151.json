@@ -1,1 +1,1 @@
-{"name": "달과학", "id": 1798151, "predecessors": [{"name": "행성과학", "id": 779633}, {"name": "위성", "id": 21899}], "successors": []}
+{"name": "달과학", "id": 1798151, "predecessors": [{"name": "행성과학", "id": 779633}, {"name": "위성", "id": 21899}], "successors": [{"name": "달의_바다", "id": 101339}]}

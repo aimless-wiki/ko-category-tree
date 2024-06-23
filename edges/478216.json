@@ -1,1 +1,1 @@
-{"name": "비뇨계", "id": 478216, "predecessors": [{"name": "동물해부학", "id": 106295}, {"name": "인체해부학", "id": 23087}], "successors": []}
+{"name": "비뇨계", "id": 478216, "predecessors": [{"name": "동물해부학", "id": 106295}, {"name": "인체해부학", "id": 23087}, {"name": "해부학", "id": 13494}, {"name": "의학_분야", "id": 48482}], "successors": []}

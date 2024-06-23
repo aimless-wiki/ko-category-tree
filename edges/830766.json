@@ -1,1 +1,1 @@
-{"name": "영화_이론가", "id": 830766, "predecessors": [{"name": "영화_이론", "id": 28216}, {"name": "이론", "id": 66308}], "successors": []}
+{"name": "영화_이론가", "id": 830766, "predecessors": [{"name": "영화_이론", "id": 28216}, {"name": "문학_장르", "id": 141656}], "successors": []}

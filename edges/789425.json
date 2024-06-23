@@ -1,1 +1,1 @@
-{"name": "클럽_DJ", "id": 789425, "predecessors": [{"name": "가게", "id": 534615}, {"name": "전자_음악", "id": 39530}, {"name": "아프리카계_미국_음악", "id": 577010}], "successors": []}
+{"name": "클럽_DJ", "id": 789425, "predecessors": [{"name": "가게", "id": 534615}, {"name": "음악_장르", "id": 33382}, {"name": "아프리카계_미국_음악", "id": 577010}], "successors": []}

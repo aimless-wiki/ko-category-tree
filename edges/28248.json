@@ -1,1 +1,1 @@
-{"name": "음계", "id": 28248, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "소리", "id": 38960}, {"name": "음악_이론", "id": 46118}], "successors": [{"name": "장음계", "id": 1036995}, {"name": "단음계", "id": 1036997}]}
+{"name": "음계", "id": 28248, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "소리", "id": 38960}], "successors": []}

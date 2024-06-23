@@ -1,1 +1,1 @@
-{"name": "단당류", "id": 465967, "predecessors": [{"name": "탄수화물", "id": 40388}], "successors": []}
+{"name": "단당류", "id": 465967, "predecessors": [{"name": "탄수화물", "id": 40388}], "successors": [{"name": "단당류_유도체", "id": 2010927}]}

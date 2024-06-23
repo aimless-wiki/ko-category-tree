@@ -1,1 +1,1 @@
-{"name": "여행", "id": 263507, "predecessors": [{"name": "생활", "id": 15596}], "successors": [{"name": "숙박_시설", "id": 284418}]}
+{"name": "여행", "id": 263507, "predecessors": [{"name": "생활", "id": 15596}], "successors": [{"name": "숙박_시설", "id": 284418}, {"name": "대한민국의_고속도로_휴게소", "id": 674314}]}

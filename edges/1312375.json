@@ -1,1 +1,1 @@
-{"name": "열역학적_과정", "id": 1312375, "predecessors": [{"name": "열역학", "id": 13876}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "열역학적_과정", "id": 1312375, "predecessors": [{"name": "연속체역학", "id": 48366}, {"name": "열역학", "id": 13876}, {"name": "위키백과_관리", "id": 39546}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "C++_라이브러리", "id": 77084, "predecessors": [{"name": "C++", "id": 77082}], "successors": [{"name": "Qt를_사용하는_소프트웨어", "id": 2943213}]}
+{"name": "C++_라이브러리", "id": 77084, "predecessors": [{"name": "C++", "id": 77082}, {"name": "라이브러리", "id": 115982}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "케톤", "id": 44152, "predecessors": [{"name": "산소", "id": 102264}], "successors": []}
+{"name": "케톤", "id": 44152, "predecessors": [{"name": "작용기", "id": 34277}, {"name": "산소", "id": 102264}], "successors": [{"name": "엔온", "id": 2585047}]}

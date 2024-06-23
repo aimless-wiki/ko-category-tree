@@ -1,1 +1,1 @@
-{"name": "진통제", "id": 276017, "predecessors": [{"name": "약리학", "id": 101922}, {"name": "통증", "id": 378013}], "successors": []}
+{"name": "진통제", "id": 276017, "predecessors": [{"name": "약리학", "id": 101922}, {"name": "의학_분야", "id": 48482}], "successors": []}

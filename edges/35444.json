@@ -1,1 +1,1 @@
-{"name": "합금", "id": 35444, "predecessors": [{"name": "금속", "id": 12742}, {"name": "화학_물질", "id": 31628}, {"name": "재료", "id": 50188}], "successors": [{"name": "강철", "id": 92348}]}
+{"name": "합금", "id": 35444, "predecessors": [{"name": "금속", "id": 12742}, {"name": "혼합물", "id": 281307}, {"name": "재료", "id": 50188}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "식물_독소", "id": 444458, "predecessors": [{"name": "식물생리학", "id": 33475}, {"name": "생화학", "id": 12236}, {"name": "독물학", "id": 33722}], "successors": []}
+{"name": "식물_독소", "id": 444458, "predecessors": [{"name": "식물생리학", "id": 33475}, {"name": "독물학", "id": 33722}, {"name": "생화학", "id": 12236}, {"name": "생체분자", "id": 62805}], "successors": []}

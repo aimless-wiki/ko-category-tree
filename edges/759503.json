@@ -1,1 +1,1 @@
-{"name": "다이빙_장비", "id": 759503, "predecessors": [{"name": "여름_스포츠", "id": 2657650}, {"name": "도구", "id": 30522}], "successors": []}
+{"name": "다이빙_장비", "id": 759503, "predecessors": [{"name": "개인_스포츠", "id": 11855}, {"name": "수상_스포츠", "id": 319779}], "successors": []}

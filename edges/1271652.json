@@ -1,1 +1,1 @@
-{"name": "가스_기술", "id": 1271652, "predecessors": [{"name": "기체", "id": 33409}, {"name": "에너지", "id": 20713}], "successors": []}
+{"name": "가스_기술", "id": 1271652, "predecessors": [{"name": "기체", "id": 33409}], "successors": [{"name": "제트_엔진", "id": 62181}]}

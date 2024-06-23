@@ -1,1 +1,1 @@
-{"name": "영국의_탐험가", "id": 42482, "predecessors": [{"name": "혁신", "id": 91997}], "successors": []}
+{"name": "영국의_탐험가", "id": 42482, "predecessors": [{"name": "영국_사람", "id": 39082}, {"name": "혁신", "id": 91997}], "successors": [{"name": "잉글랜드의_탐험가", "id": 862665}]}

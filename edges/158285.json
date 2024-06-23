@@ -1,1 +1,1 @@
-{"name": "NHK", "id": 158285, "predecessors": [{"name": "대중_매체", "id": 15146}], "successors": [{"name": "NHK의_방송국", "id": 765860}, {"name": "NHK의_텔레비전_프로그램", "id": 765863}, {"name": "일본_NHK의_아나운서", "id": 951626}]}
+{"name": "NHK", "id": 158285, "predecessors": [{"name": "공영_방송", "id": 621940}, {"name": "대중_매체", "id": 15146}], "successors": [{"name": "NHK의_방송국", "id": 765860}, {"name": "NHK의_텔레비전_프로그램", "id": 765863}, {"name": "일본_NHK의_아나운서", "id": 951626}]}

@@ -1,1 +1,1 @@
-{"name": "이미지_호스팅", "id": 523898, "predecessors": [{"name": "웹_호스팅", "id": 449084}, {"name": "문화", "id": 11876}, {"name": "쓰기", "id": 326949}], "successors": []}
+{"name": "이미지_호스팅", "id": 523898, "predecessors": [{"name": "웹_호스팅", "id": 449084}, {"name": "디지털_미디어", "id": 101767}, {"name": "문화", "id": 11876}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "자동차_안전_기술", "id": 573044, "predecessors": [{"name": "도로_교통_안전", "id": 573046}], "successors": []}
+{"name": "자동차_안전_기술", "id": 573044, "predecessors": [{"name": "자동차_기술", "id": 152153}, {"name": "도로_교통_안전", "id": 573046}], "successors": []}

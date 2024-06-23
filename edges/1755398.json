@@ -1,1 +1,1 @@
-{"name": "건축물_정보_틀", "id": 1755398, "predecessors": [{"name": "정보_틀", "id": 65726}, {"name": "지리에_관한_틀", "id": 562490}], "successors": []}
+{"name": "건축물_정보_틀", "id": 1755398, "predecessors": [{"name": "정보_틀", "id": 65726}, {"name": "건축물", "id": 28224}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "사망선고된_실종자", "id": 2333984, "predecessors": [{"name": "실종자", "id": 576603}, {"name": "죽음", "id": 34592}], "successors": []}
+{"name": "사망선고된_실종자", "id": 2333984, "predecessors": [{"name": "실종자", "id": 576603}, {"name": "죽은_사람", "id": 729802}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "스페인의_코미디_영화", "id": 976589, "predecessors": [{"name": "코미디_영화", "id": 82871}], "successors": []}
+{"name": "스페인의_코미디_영화", "id": 976589, "predecessors": [{"name": "스페인의_영화_작품", "id": 434039}, {"name": "희극", "id": 248140}, {"name": "사회", "id": 31673}], "successors": []}

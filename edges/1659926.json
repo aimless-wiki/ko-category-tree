@@ -1,1 +1,1 @@
-{"name": "다큐드라마", "id": 1659926, "predecessors": [{"name": "다큐멘터리_영화", "id": 66368}], "successors": []}
+{"name": "다큐드라마", "id": 1659926, "predecessors": [{"name": "드라마_영화", "id": 308820}, {"name": "다큐멘터리_영화", "id": 66368}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "EDGE_종", "id": 1770797, "predecessors": [{"name": "동물학", "id": 12309}, {"name": "생물_다양성", "id": 666478}, {"name": "생물학", "id": 8535}, {"name": "환경", "id": 12071}], "successors": []}
+{"name": "EDGE_종", "id": 1770797, "predecessors": [{"name": "동물학", "id": 12309}, {"name": "생물_다양성", "id": 666478}, {"name": "생물학", "id": 8535}, {"name": "환경_문제", "id": 483925}], "successors": []}

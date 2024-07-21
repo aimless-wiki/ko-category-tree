@@ -1,1 +1,1 @@
-{"name": "NASA의_우주_탐사선", "id": 826298, "predecessors": [{"name": "우주_탐사", "id": 213057}, {"name": "수역", "id": 70167}, {"name": "탈것", "id": 41512}], "successors": [{"name": "익스플로러_계획", "id": 99199}, {"name": "디스커버리_계획", "id": 289510}]}
+{"name": "NASA의_우주_탐사선", "id": 826298, "predecessors": [{"name": "우주_탐사", "id": 213057}, {"name": "로봇", "id": 54138}], "successors": []}

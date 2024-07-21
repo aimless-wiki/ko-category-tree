@@ -1,1 +1,1 @@
-{"name": "의학_책", "id": 65497, "predecessors": [{"name": "의학", "id": 11731}], "successors": []}
+{"name": "의학_책", "id": 65497, "predecessors": [{"name": "의학", "id": 11731}, {"name": "쓰기", "id": 326949}, {"name": "위키백과_관리", "id": 39546}], "successors": []}

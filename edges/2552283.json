@@ -1,1 +1,1 @@
-{"name": "선박_부품", "id": 2552283, "predecessors": [{"name": "분야별_공학", "id": 694953}, {"name": "탈것", "id": 41512}, {"name": "산업", "id": 11869}], "successors": []}
+{"name": "선박_부품", "id": 2552283, "predecessors": [{"name": "분야별_공학", "id": 694953}, {"name": "탈것", "id": 41512}, {"name": "생산_및_제조", "id": 98522}], "successors": []}

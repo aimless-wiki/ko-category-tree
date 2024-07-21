@@ -1,1 +1,1 @@
-{"name": "인형극", "id": 534447, "predecessors": [{"name": "공연_예술", "id": 12137}, {"name": "연극_장르", "id": 562539}, {"name": "인형", "id": 262376}], "successors": []}
+{"name": "인형극", "id": 534447, "predecessors": [{"name": "공연_예술", "id": 12137}, {"name": "연극_장르", "id": 562539}, {"name": "인형", "id": 262376}, {"name": "유년기", "id": 507845}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "애플_II_게임", "id": 1769729, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "소셜_네트워크", "id": 564972}, {"name": "애플의_소프트웨어", "id": 468451}], "successors": []}
+{"name": "애플_II_게임", "id": 1769729, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "컴퓨팅_플랫폼", "id": 134236}, {"name": "애플의_소프트웨어", "id": 468451}], "successors": []}

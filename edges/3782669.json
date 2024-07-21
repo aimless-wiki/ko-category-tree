@@ -1,1 +1,1 @@
-{"name": "Wii_전용_게임", "id": 3782669, "predecessors": [{"name": "Wii_게임", "id": 279312}], "successors": []}
+{"name": "Wii_전용_게임", "id": 3782669, "predecessors": [{"name": "Wii_게임", "id": 279312}, {"name": "디지털_미디어", "id": 101767}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "요리_책", "id": 158485, "predecessors": [{"name": "음식", "id": 10475}, {"name": "데이터_관리", "id": 33944}], "successors": []}
+{"name": "요리_책", "id": 158485, "predecessors": [{"name": "음식", "id": 10475}, {"name": "문학_장르", "id": 141656}, {"name": "쓰기", "id": 326949}], "successors": []}

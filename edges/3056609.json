@@ -1,1 +1,1 @@
-{"name": "ACM_석학회원", "id": 3056609, "predecessors": [{"name": "학회", "id": 108732}, {"name": "학문", "id": 15930}, {"name": "학문_분야", "id": 275046}], "successors": []}
+{"name": "ACM_석학회원", "id": 3056609, "predecessors": [{"name": "컴퓨터_과학", "id": 352272}, {"name": "학회", "id": 108732}, {"name": "학문", "id": 15930}], "successors": []}

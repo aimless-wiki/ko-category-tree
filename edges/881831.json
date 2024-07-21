@@ -1,0 +1,1 @@
+{"name": "유닉스_계열", "id": 881831, "predecessors": [{"name": "운영체제", "id": 42780}, {"name": "유닉스", "id": 19727}], "successors": [{"name": "리눅스", "id": 19726}, {"name": "BSD", "id": 35257}]}

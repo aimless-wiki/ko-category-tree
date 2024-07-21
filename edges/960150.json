@@ -1,1 +1,1 @@
-{"name": "블랙베리의_소프트웨어", "id": 960150, "predecessors": [{"name": "PDA", "id": 10187}], "successors": []}
+{"name": "블랙베리의_소프트웨어", "id": 960150, "predecessors": [{"name": "모바일_운영체제", "id": 696186}, {"name": "모바일_소프트웨어", "id": 556443}, {"name": "PDA", "id": 10187}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "화기_설계자", "id": 679250, "predecessors": [{"name": "화기", "id": 43332}], "successors": []}
+{"name": "화기_설계자", "id": 679250, "predecessors": [{"name": "디자인", "id": 33660}, {"name": "화기", "id": 43332}], "successors": []}

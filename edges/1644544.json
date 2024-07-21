@@ -1,1 +1,1 @@
-{"name": "파리_대학교_교수", "id": 1644544, "predecessors": [{"name": "파리의_대학교", "id": 756267}, {"name": "대학_교수", "id": 428450}], "successors": []}
+{"name": "파리_대학교_교수", "id": 1644544, "predecessors": [{"name": "파리의_대학교", "id": 756267}, {"name": "교육", "id": 11817}], "successors": []}

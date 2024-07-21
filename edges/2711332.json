@@ -1,1 +1,1 @@
-{"name": "텔레비전_프로그램_포스터", "id": 2711332, "predecessors": [{"name": "시각_예술", "id": 66333}], "successors": []}
+{"name": "텔레비전_프로그램_포스터", "id": 2711332, "predecessors": [{"name": "텔레비전_프로그램", "id": 21870}, {"name": "시각_예술", "id": 66333}], "successors": []}

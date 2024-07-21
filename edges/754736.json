@@ -1,1 +1,1 @@
-{"name": "방송탑", "id": 754736, "predecessors": [{"name": "탑", "id": 55784}, {"name": "방송공학", "id": 700433}], "successors": []}
+{"name": "방송탑", "id": 754736, "predecessors": [{"name": "탑", "id": 55784}, {"name": "개발", "id": 294686}, {"name": "방송공학", "id": 700433}], "successors": []}

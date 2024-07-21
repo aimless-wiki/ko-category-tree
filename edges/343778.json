@@ -1,1 +1,1 @@
-{"name": "토양학", "id": 343778, "predecessors": [{"name": "지구과학", "id": 10481}, {"name": "토양", "id": 208529}], "successors": [{"name": "토양", "id": 208529}, {"name": "질소_대사", "id": 411646}, {"name": "비료", "id": 346592}]}
+{"name": "토양학", "id": 343778, "predecessors": [{"name": "지구과학", "id": 10481}, {"name": "토양", "id": 208529}], "successors": [{"name": "토양", "id": 208529}]}

@@ -1,1 +1,1 @@
-{"name": "농기계", "id": 531431, "predecessors": [{"name": "기계", "id": 98519}, {"name": "농기구", "id": 268347}, {"name": "농업사", "id": 689580}], "successors": []}
+{"name": "농기계", "id": 531431, "predecessors": [{"name": "기계", "id": 98519}, {"name": "농기구", "id": 268347}, {"name": "혁명", "id": 33196}], "successors": []}

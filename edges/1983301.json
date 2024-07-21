@@ -1,1 +1,1 @@
-{"name": "볶음국수", "id": 1983301, "predecessors": [{"name": "음식", "id": 10475}, {"name": "조리법", "id": 625821}], "successors": []}
+{"name": "볶음국수", "id": 1983301, "predecessors": [{"name": "볶음", "id": 1983297}, {"name": "음식", "id": 10475}], "successors": []}

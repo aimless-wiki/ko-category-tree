@@ -1,1 +1,1 @@
-{"name": "승강기", "id": 742453, "predecessors": [{"name": "건축공학", "id": 84825}], "successors": []}
+{"name": "승강기", "id": 742453, "predecessors": [{"name": "건축공학", "id": 84825}, {"name": "교통", "id": 11844}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "초상화", "id": 1013645, "predecessors": [{"name": "회화", "id": 198393}], "successors": []}
+{"name": "초상화", "id": 1013645, "predecessors": [{"name": "회화", "id": 198393}, {"name": "미술", "id": 13227}], "successors": [{"name": "지폐의_인물", "id": 307749}]}

@@ -1,1 +1,1 @@
-{"name": "2020년_드라마", "id": 2033361, "predecessors": [{"name": "드라마", "id": 112598}, {"name": "시간", "id": 31936}], "successors": []}
+{"name": "2020년_드라마", "id": 2033361, "predecessors": [{"name": "텔레비전_프로그램", "id": 21870}, {"name": "시간", "id": 31936}, {"name": "드라마", "id": 112598}], "successors": []}

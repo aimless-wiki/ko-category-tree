@@ -1,1 +1,1 @@
-{"name": "무술_영화", "id": 525852, "predecessors": [{"name": "무술", "id": 23457}, {"name": "생활", "id": 15596}], "successors": [{"name": "쿵후_영화", "id": 761319}]}
+{"name": "무술_영화", "id": 525852, "predecessors": [{"name": "무술", "id": 23457}, {"name": "액션_영화", "id": 54507}, {"name": "언론", "id": 3698951}], "successors": [{"name": "쿵후_영화", "id": 761319}]}

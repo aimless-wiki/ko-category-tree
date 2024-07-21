@@ -1,1 +1,1 @@
-{"name": "초분자화학", "id": 2385713, "predecessors": [{"name": "나노기술", "id": 148895}, {"name": "학문_분야", "id": 275046}], "successors": [{"name": "분자간_힘", "id": 377819}]}
+{"name": "초분자화학", "id": 2385713, "predecessors": [{"name": "나노기술", "id": 148895}, {"name": "화학", "id": 12062}], "successors": [{"name": "분자간_힘", "id": 377819}]}

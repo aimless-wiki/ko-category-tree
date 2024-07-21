@@ -1,1 +1,1 @@
-{"name": "의약화학", "id": 766035, "predecessors": [{"name": "건강", "id": 48996}], "successors": [{"name": "약리학", "id": 101922}]}
+{"name": "의약화학", "id": 766035, "predecessors": [{"name": "화학", "id": 12062}, {"name": "건강", "id": 48996}], "successors": [{"name": "약리학", "id": 101922}]}

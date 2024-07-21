@@ -1,1 +1,1 @@
-{"name": "사회_보장", "id": 215240, "predecessors": [{"name": "정부", "id": 15935}, {"name": "사회학_이론", "id": 632947}, {"name": "인권", "id": 44037}], "successors": []}
+{"name": "사회_보장", "id": 215240, "predecessors": [{"name": "복지", "id": 215241}, {"name": "정부", "id": 15935}, {"name": "사회학_이론", "id": 632947}], "successors": []}

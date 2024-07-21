@@ -1,1 +1,1 @@
-{"name": "수리공학", "id": 634192, "predecessors": [{"name": "수문학", "id": 201776}, {"name": "토목공학", "id": 61911}, {"name": "유체역학", "id": 34245}], "successors": []}
+{"name": "수리공학", "id": 634192, "predecessors": [{"name": "수문학", "id": 201776}, {"name": "토목공학", "id": 61911}], "successors": []}

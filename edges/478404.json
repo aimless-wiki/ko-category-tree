@@ -1,1 +1,1 @@
-{"name": "생식계", "id": 478404, "predecessors": [{"name": "생식", "id": 146243}, {"name": "해부학", "id": 13494}], "successors": [{"name": "남성의_생식_기관", "id": 110278}]}
+{"name": "생식계", "id": 478404, "predecessors": [{"name": "생식", "id": 146243}], "successors": [{"name": "남성의_생식_기관", "id": 110278}]}

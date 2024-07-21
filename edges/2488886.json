@@ -1,1 +1,1 @@
-{"name": "NMDA_수용체_대항제", "id": 2488886, "predecessors": [{"name": "수용체", "id": 593663}], "successors": []}
+{"name": "NMDA_수용체_대항제", "id": 2488886, "predecessors": [{"name": "수용체", "id": 593663}, {"name": "신호_전달", "id": 899948}], "successors": []}

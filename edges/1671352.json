@@ -1,1 +1,1 @@
-{"name": "앤솔러지_텔레비전_프로그램", "id": 1671352, "predecessors": [{"name": "문학", "id": 4392}], "successors": []}
+{"name": "앤솔러지_텔레비전_프로그램", "id": 1671352, "predecessors": [{"name": "대중_매체", "id": 15146}, {"name": "문학", "id": 4392}], "successors": []}

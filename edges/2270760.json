@@ -1,1 +1,1 @@
-{"name": "FTP_클라이언트", "id": 2270760, "predecessors": [{"name": "컴퓨터_파일", "id": 203029}, {"name": "분산_컴퓨팅_구조", "id": 718605}], "successors": []}
+{"name": "FTP_클라이언트", "id": 2270760, "predecessors": [{"name": "응용_계층_프로토콜", "id": 927488}, {"name": "분산_컴퓨팅_구조", "id": 718605}], "successors": []}

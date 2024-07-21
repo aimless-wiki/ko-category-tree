@@ -1,1 +1,1 @@
-{"name": "바이오스", "id": 860211, "predecessors": [{"name": "IBM_PC_호환기종", "id": 1798561}, {"name": "메인보드", "id": 564325}, {"name": "임베디드_시스템", "id": 22535}], "successors": []}
+{"name": "바이오스", "id": 860211, "predecessors": [{"name": "IBM_PC_호환기종", "id": 1798561}, {"name": "메인보드", "id": 564325}, {"name": "시스템_소프트웨어", "id": 19605}, {"name": "운영체제_기술", "id": 48491}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "방송사별_텔레비전_프로그램_목록", "id": 944625, "predecessors": [{"name": "가전제품", "id": 49842}], "successors": []}
+{"name": "방송사별_텔레비전_프로그램_목록", "id": 944625, "predecessors": [{"name": "텔레비전_프로그램", "id": 21870}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "아타리_ST_게임", "id": 161515, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "명령어_집합_구조", "id": 2302239}], "successors": []}
+{"name": "아타리_ST_게임", "id": 161515, "predecessors": [{"name": "PC_게임", "id": 698618}, {"name": "디지털_미디어", "id": 101767}, {"name": "사무기기", "id": 199687}], "successors": []}

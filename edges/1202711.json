@@ -1,1 +1,1 @@
-{"name": "과일_요리", "id": 1202711, "predecessors": [{"name": "과일", "id": 31600}, {"name": "재료", "id": 50188}], "successors": [{"name": "코코넛_요리", "id": 1651218}, {"name": "포도주", "id": 48508}]}
+{"name": "과일_요리", "id": 1202711, "predecessors": [{"name": "과일", "id": 31600}, {"name": "재료", "id": 50188}], "successors": [{"name": "귤열매_요리", "id": 2544541}]}

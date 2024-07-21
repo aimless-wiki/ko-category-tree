@@ -1,1 +1,1 @@
-{"name": "의인화_캐릭터", "id": 586494, "predecessors": [{"name": "문학_기법", "id": 141657}], "successors": [{"name": "디즈니_캐릭터", "id": 386854}]}
+{"name": "의인화_캐릭터", "id": 586494, "predecessors": [{"name": "허구", "id": 47994}, {"name": "문학_기법", "id": 141657}], "successors": [{"name": "디즈니_캐릭터", "id": 386854}]}

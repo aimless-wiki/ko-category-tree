@@ -1,1 +1,1 @@
-{"name": "전투_서열", "id": 45421, "predecessors": [{"name": "군사", "id": 30023}], "successors": []}
+{"name": "전투_서열", "id": 45421, "predecessors": [{"name": "군사작전", "id": 337954}, {"name": "군사", "id": 30023}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "리메이크_텔레비전_드라마", "id": 520131, "predecessors": [{"name": "드라마", "id": 112598}], "successors": []}
+{"name": "리메이크_텔레비전_드라마", "id": 520131, "predecessors": [{"name": "드라마", "id": 112598}, {"name": "텔레비전_프로그램", "id": 21870}], "successors": []}

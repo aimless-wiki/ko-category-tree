@@ -1,1 +1,1 @@
-{"name": "비상_통신", "id": 3754899, "predecessors": [{"name": "공공_서비스", "id": 395659}, {"name": "위기관리", "id": 665620}], "successors": []}
+{"name": "비상_통신", "id": 3754899, "predecessors": [{"name": "통신", "id": 3734992}, {"name": "공공_서비스", "id": 395659}, {"name": "위기관리", "id": 665620}], "successors": []}

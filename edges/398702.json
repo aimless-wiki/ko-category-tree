@@ -1,1 +1,1 @@
-{"name": "공구", "id": 398702, "predecessors": [{"name": "공예", "id": 169381}, {"name": "도구", "id": 30522}, {"name": "수공구", "id": 1956253}], "successors": [{"name": "절삭_공구", "id": 698740}]}
+{"name": "공구", "id": 398702, "predecessors": [{"name": "공예", "id": 169381}, {"name": "도구", "id": 30522}, {"name": "수공구", "id": 1956253}], "successors": [{"name": "나이프", "id": 1319896}]}

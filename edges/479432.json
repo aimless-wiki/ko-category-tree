@@ -1,1 +1,1 @@
-{"name": "배설", "id": 479432, "predecessors": [{"name": "위생", "id": 131172}, {"name": "생물학", "id": 8535}], "successors": []}
+{"name": "배설", "id": 479432, "predecessors": [{"name": "위생", "id": 131172}, {"name": "생물학", "id": 8535}], "successors": [{"name": "똥", "id": 706068}]}

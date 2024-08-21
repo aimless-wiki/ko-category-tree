@@ -1,1 +1,1 @@
-{"name": "올림픽_조정_메달리스트", "id": 490680, "predecessors": [{"name": "수상_스포츠", "id": 319779}, {"name": "생활", "id": 15596}], "successors": []}
+{"name": "올림픽_조정_메달리스트", "id": 490680, "predecessors": [{"name": "올림픽_조정", "id": 400317}, {"name": "수상_스포츠", "id": 319779}], "successors": []}

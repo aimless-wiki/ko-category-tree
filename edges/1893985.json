@@ -1,1 +1,1 @@
-{"name": "각료_목록", "id": 1893985, "predecessors": [{"name": "정치", "id": 8537}, {"name": "사회", "id": 31673}], "successors": [{"name": "총리_목록", "id": 755509}]}
+{"name": "각료_목록", "id": 1893985, "predecessors": [{"name": "사회", "id": 31673}, {"name": "정치", "id": 8537}], "successors": [{"name": "총리_목록", "id": 755509}]}

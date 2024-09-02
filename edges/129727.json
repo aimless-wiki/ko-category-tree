@@ -1,1 +1,1 @@
-{"name": "미국의_보험회사", "id": 129727, "predecessors": [{"name": "미국의_금융_기업", "id": 155789}, {"name": "보험", "id": 93367}], "successors": []}
+{"name": "미국의_보험회사", "id": 129727, "predecessors": [{"name": "미국의_금융_기업", "id": 155789}, {"name": "금융_기업", "id": 125563}], "successors": []}

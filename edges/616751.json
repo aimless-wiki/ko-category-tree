@@ -1,1 +1,1 @@
-{"name": "물리해양학", "id": 616751, "predecessors": [{"name": "해양학", "id": 32955}, {"name": "물리학", "id": 10482}], "successors": [{"name": "조석", "id": 766026}]}
+{"name": "물리해양학", "id": 616751, "predecessors": [{"name": "해양학", "id": 32955}, {"name": "물리학", "id": 10482}], "successors": [{"name": "조석", "id": 766026}, {"name": "지진해일", "id": 616747}]}

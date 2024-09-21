@@ -1,1 +1,1 @@
-{"name": "냉각_기술", "id": 277962, "predecessors": [{"name": "HVAC", "id": 1113936}, {"name": "공업열역학", "id": 3832700}], "successors": [{"name": "냉매", "id": 1673937}, {"name": "인체냉동보존을_소재로_한_작품", "id": 778522}]}
+{"name": "냉각_기술", "id": 277962, "predecessors": [{"name": "HVAC", "id": 1113936}, {"name": "온도", "id": 11434}], "successors": [{"name": "냉매", "id": 1673937}]}

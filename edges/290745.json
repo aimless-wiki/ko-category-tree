@@ -1,1 +1,1 @@
-{"name": "마그네슘_광물", "id": 290745, "predecessors": [{"name": "광물", "id": 32284}, {"name": "화합물", "id": 31627}], "successors": []}
+{"name": "마그네슘_광물", "id": 290745, "predecessors": [{"name": "화학_원소", "id": 12337}, {"name": "광물", "id": 32284}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "런던의_공원", "id": 674491, "predecessors": [{"name": "유럽의_지리", "id": 31056}, {"name": "관광", "id": 55754}, {"name": "지리", "id": 8922}], "successors": []}
+{"name": "런던의_공원", "id": 674491, "predecessors": [{"name": "런던의_관광지", "id": 133751}, {"name": "유럽의_지리", "id": 31056}, {"name": "관광", "id": 55754}], "successors": []}

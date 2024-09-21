@@ -1,1 +1,1 @@
-{"name": "화성_탐사선", "id": 130075, "predecessors": [{"name": "우주_탐사", "id": 213057}], "successors": []}
+{"name": "화성_탐사선", "id": 130075, "predecessors": [{"name": "화성", "id": 32222}, {"name": "우주_탐사", "id": 213057}], "successors": []}

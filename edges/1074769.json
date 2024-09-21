@@ -1,1 +1,1 @@
-{"name": "FIFA_월드컵_경기", "id": 1074769, "predecessors": [{"name": "IOC_공인_국제_연맹", "id": 979827}, {"name": "생활", "id": 15596}], "successors": [{"name": "FIFA_월드컵_결승전", "id": 637288}]}
+{"name": "FIFA_월드컵_경기", "id": 1074769, "predecessors": [{"name": "국제_스포츠_연맹", "id": 667554}, {"name": "생활", "id": 15596}], "successors": [{"name": "FIFA_월드컵_결승전", "id": 637288}]}

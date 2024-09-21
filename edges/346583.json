@@ -1,1 +1,1 @@
-{"name": "대지구대", "id": 346583, "predecessors": [{"name": "지구대", "id": 96541}, {"name": "대륙", "id": 11805}], "successors": [{"name": "홍해", "id": 399784}, {"name": "아덴만", "id": 792827}]}
+{"name": "대지구대", "id": 346583, "predecessors": [{"name": "지구대", "id": 96541}, {"name": "지리", "id": 8922}], "successors": [{"name": "홍해", "id": 399784}, {"name": "아덴만", "id": 792827}]}

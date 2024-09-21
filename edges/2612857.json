@@ -1,1 +1,1 @@
-{"name": "도로_위험요소", "id": 2612857, "predecessors": [{"name": "도로_교통_안전", "id": 573046}, {"name": "위기관리", "id": 665620}, {"name": "공학", "id": 11440}], "successors": []}
+{"name": "도로_위험요소", "id": 2612857, "predecessors": [{"name": "위기관리", "id": 665620}, {"name": "공학", "id": 11440}], "successors": []}

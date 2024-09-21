@@ -1,1 +1,1 @@
-{"name": "스페인_독감으로_죽은_사람", "id": 1623581, "predecessors": [{"name": "감염병으로_죽은_사람", "id": 587895}, {"name": "감염병", "id": 34410}], "successors": []}
+{"name": "스페인_독감으로_죽은_사람", "id": 1623581, "predecessors": [{"name": "안전", "id": 31670}], "successors": []}

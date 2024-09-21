@@ -1,1 +1,1 @@
-{"name": "운석", "id": 202401, "predecessors": [{"name": "암석", "id": 30513}, {"name": "유성체", "id": 95725}], "successors": [{"name": "잠재적으로_위험한_소행성", "id": 2324802}]}
+{"name": "운석", "id": 202401, "predecessors": [{"name": "암석", "id": 30513}, {"name": "자연재해", "id": 128856}], "successors": []}

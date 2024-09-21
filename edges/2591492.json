@@ -1,1 +1,1 @@
-{"name": "신경외상", "id": 2591492, "predecessors": [{"name": "외상", "id": 50283}, {"name": "신경계_질환", "id": 478143}], "successors": [{"name": "대마비에_걸린_사람", "id": 3317797}]}
+{"name": "신경외상", "id": 2591492, "predecessors": [{"name": "외상", "id": 50283}], "successors": []}

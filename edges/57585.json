@@ -1,1 +1,1 @@
-{"name": "평균", "id": 57585, "predecessors": [{"name": "통계학", "id": 15144}], "successors": []}
+{"name": "평균", "id": 57585, "predecessors": [{"name": "산술", "id": 100978}, {"name": "통계학", "id": 15144}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "부동산", "id": 216941, "predecessors": [{"name": "법학", "id": 41208}, {"name": "공급망_관리", "id": 570579}], "successors": [{"name": "건설", "id": 289085}]}
+{"name": "부동산", "id": 216941, "predecessors": [{"name": "법학", "id": 41208}, {"name": "재산법", "id": 1220501}], "successors": [{"name": "건설", "id": 289085}]}

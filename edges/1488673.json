@@ -1,1 +1,1 @@
-{"name": "카리브컵", "id": 1488673, "predecessors": [{"name": "CONCACAF_골드컵", "id": 288154}, {"name": "문화", "id": 11876}], "successors": [{"name": "카리브컵_예선", "id": 1843629}]}
+{"name": "카리브컵", "id": 1488673, "predecessors": [{"name": "대회", "id": 116658}, {"name": "문화", "id": 11876}], "successors": [{"name": "카리브컵_예선", "id": 1843629}]}

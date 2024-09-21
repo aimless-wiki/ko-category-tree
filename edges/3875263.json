@@ -1,1 +1,1 @@
-{"name": "뉴욕주의_여객_철도", "id": 3875263, "predecessors": [{"name": "초대륙", "id": 33093}, {"name": "미국의_주", "id": 11449}], "successors": []}
+{"name": "뉴욕주의_여객_철도", "id": 3875263, "predecessors": [{"name": "대륙", "id": 11805}, {"name": "미국의_주", "id": 11449}], "successors": [{"name": "뉴욕_지하철역", "id": 894765}]}

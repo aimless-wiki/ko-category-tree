@@ -1,1 +1,1 @@
-{"name": "한국어_노래", "id": 460060, "predecessors": [{"name": "대중_매체", "id": 15146}, {"name": "예술_장르", "id": 2835674}], "successors": []}
+{"name": "한국어_노래", "id": 460060, "predecessors": [{"name": "예술_장르", "id": 2835674}, {"name": "한국어", "id": 11677}], "successors": []}

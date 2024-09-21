@@ -1,1 +1,1 @@
-{"name": "길거리_음식", "id": 607674, "predecessors": [{"name": "음식", "id": 10475}, {"name": "문화", "id": 11876}, {"name": "가공식품", "id": 305132}], "successors": [{"name": "딤섬", "id": 539147}]}
+{"name": "길거리_음식", "id": 607674, "predecessors": [{"name": "음식", "id": 10475}, {"name": "문화", "id": 11876}, {"name": "공정", "id": 103493}], "successors": [{"name": "딤섬", "id": 539147}]}

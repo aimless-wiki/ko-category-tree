@@ -1,1 +1,1 @@
-{"name": "증상", "id": 148310, "predecessors": [{"name": "생리학", "id": 47775}], "successors": [{"name": "염증", "id": 284346}, {"name": "통증", "id": 378013}]}
+{"name": "증상", "id": 148310, "predecessors": [{"name": "생리학", "id": 47775}], "successors": [{"name": "통증", "id": 378013}]}

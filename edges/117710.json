@@ -1,1 +1,1 @@
-{"name": "계획_중인_철도_노선", "id": 117710, "predecessors": [{"name": "교통", "id": 11844}, {"name": "철도_시설", "id": 563009}], "successors": []}
+{"name": "계획_중인_철도_노선", "id": 117710, "predecessors": [{"name": "계획된_건축물", "id": 581449}], "successors": []}

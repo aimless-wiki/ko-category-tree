@@ -1,1 +1,1 @@
-{"name": "감자_요리", "id": 221463, "predecessors": [{"name": "뿌리채소", "id": 56309}], "successors": []}
+{"name": "감자_요리", "id": 221463, "predecessors": [{"name": "주식", "id": 717954}, {"name": "채소_요리", "id": 1828663}], "successors": []}

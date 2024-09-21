@@ -1,1 +1,1 @@
-{"name": "버터_요리", "id": 779284, "predecessors": [{"name": "유제품_요리", "id": 2047640}, {"name": "동물성_기름", "id": 305147}], "successors": []}
+{"name": "버터_요리", "id": 779284, "predecessors": [{"name": "동물성_기름", "id": 305147}], "successors": []}

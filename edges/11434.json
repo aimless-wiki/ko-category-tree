@@ -1,1 +1,1 @@
-{"name": "온도", "id": 11434, "predecessors": [{"name": "물리량", "id": 13813}, {"name": "열", "id": 43515}, {"name": "열역학", "id": 13876}], "successors": []}
+{"name": "온도", "id": 11434, "predecessors": [{"name": "물리량", "id": 13813}, {"name": "열", "id": 43515}, {"name": "열역학", "id": 13876}], "successors": [{"name": "겨울", "id": 60714}, {"name": "냉각_기술", "id": 277962}]}

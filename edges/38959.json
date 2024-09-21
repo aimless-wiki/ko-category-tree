@@ -1,1 +1,1 @@
-{"name": "음향학", "id": 38959, "predecessors": [{"name": "소리", "id": 38960}, {"name": "유체역학", "id": 34245}, {"name": "파동", "id": 38961}], "successors": []}
+{"name": "음향학", "id": 38959, "predecessors": [{"name": "소리", "id": 38960}, {"name": "유체역학", "id": 34245}, {"name": "파동", "id": 38961}], "successors": [{"name": "반향_위치_측정을_사용하는_동물", "id": 3082355}]}

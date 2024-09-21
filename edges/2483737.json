@@ -1,1 +1,1 @@
-{"name": "마르코프_모형", "id": 2483737, "predecessors": [{"name": "기계_학습", "id": 70572}], "successors": []}
+{"name": "마르코프_모형", "id": 2483737, "predecessors": [{"name": "기계_학습", "id": 70572}, {"name": "확률_과정", "id": 80107}], "successors": []}

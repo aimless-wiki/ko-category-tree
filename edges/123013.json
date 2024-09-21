@@ -1,1 +1,1 @@
-{"name": "우편_회사", "id": 123013, "predecessors": [{"name": "우편", "id": 23275}, {"name": "기업", "id": 11886}], "successors": []}
+{"name": "우편_회사", "id": 123013, "predecessors": [{"name": "우편", "id": 23275}, {"name": "기업", "id": 11886}, {"name": "경영", "id": 48602}], "successors": []}

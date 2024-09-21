@@ -1,1 +1,1 @@
-{"name": "세포_호흡", "id": 479436, "predecessors": [{"name": "생화학", "id": 12236}, {"name": "운동생리학", "id": 465990}], "successors": []}
+{"name": "세포_호흡", "id": 479436, "predecessors": [{"name": "물질대사", "id": 47774}, {"name": "생화학", "id": 12236}, {"name": "운동생리학", "id": 465990}, {"name": "호흡", "id": 264686}], "successors": []}

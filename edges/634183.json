@@ -1,1 +1,1 @@
-{"name": "관개", "id": 634183, "predecessors": [{"name": "농업", "id": 56133}, {"name": "농학", "id": 56132}, {"name": "원예", "id": 82930}, {"name": "물", "id": 29686}, {"name": "혁명", "id": 33196}], "successors": [{"name": "한국의_관개", "id": 1378826}]}
+{"name": "관개", "id": 634183, "predecessors": [{"name": "농학", "id": 56132}, {"name": "원예", "id": 82930}, {"name": "물", "id": 29686}, {"name": "농업사", "id": 689580}], "successors": []}

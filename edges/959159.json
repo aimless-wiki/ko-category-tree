@@ -1,1 +1,1 @@
-{"name": "탐사보도", "id": 959159, "predecessors": [{"name": "지식", "id": 15616}], "successors": []}
+{"name": "탐사보도", "id": 959159, "predecessors": [{"name": "언론", "id": 3698951}, {"name": "지식", "id": 15616}], "successors": []}

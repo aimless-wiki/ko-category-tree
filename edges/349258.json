@@ -1,1 +1,1 @@
-{"name": "물리학_실험", "id": 349258, "predecessors": [{"name": "시험", "id": 49839}, {"name": "물리학", "id": 10482}], "successors": [{"name": "물리학의_역설", "id": 131133}]}
+{"name": "물리학_실험", "id": 349258, "predecessors": [{"name": "물리학", "id": 10482}, {"name": "측정", "id": 33499}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "바다나물", "id": 2992743, "predecessors": [{"name": "나물", "id": 172359}, {"name": "산업", "id": 11869}, {"name": "해양생물학", "id": 472175}, {"name": "식자재", "id": 695629}], "successors": []}
+{"name": "바다나물", "id": 2992743, "predecessors": [{"name": "나물", "id": 172359}], "successors": []}

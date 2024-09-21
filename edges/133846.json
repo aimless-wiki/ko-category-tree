@@ -1,1 +1,1 @@
-{"name": "민족_의상", "id": 133846, "predecessors": [{"name": "상징", "id": 40507}, {"name": "의류", "id": 48993}], "successors": [{"name": "한복", "id": 910325}]}
+{"name": "민속의상", "id": 133846, "predecessors": [{"name": "상징", "id": 40507}, {"name": "의류", "id": 48993}], "successors": [{"name": "한복", "id": 910325}, {"name": "일본_민속의상", "id": 3881821}]}

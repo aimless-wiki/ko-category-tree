@@ -1,1 +1,1 @@
-{"name": "알케인", "id": 56853, "predecessors": [{"name": "탄화수소", "id": 42015}], "successors": []}
+{"name": "알케인", "id": 56853, "predecessors": [{"name": "탄화수소", "id": 42015}], "successors": [{"name": "가스_폭발", "id": 746930}]}

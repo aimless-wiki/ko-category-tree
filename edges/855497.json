@@ -1,1 +1,1 @@
-{"name": "일본어식_영어", "id": 855497, "predecessors": [{"name": "영어_낱말", "id": 82890}, {"name": "일본어_낱말", "id": 82342}], "successors": []}
+{"name": "일본어식_영어", "id": 855497, "predecessors": [{"name": "영어_낱말", "id": 82890}, {"name": "일본어_낱말", "id": 82342}, {"name": "세계화", "id": 198757}], "successors": []}

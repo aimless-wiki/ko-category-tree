@@ -1,1 +1,1 @@
-{"name": "밀리터리_SF_영화", "id": 2452979, "predecessors": [{"name": "밀리터리_SF", "id": 1486659}, {"name": "SF_영화", "id": 54519}], "successors": []}
+{"name": "밀리터리_SF_영화", "id": 2452979, "predecessors": [{"name": "SF_영화", "id": 54519}, {"name": "군사를_소재로_한_작품", "id": 690563}], "successors": []}

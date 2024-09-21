@@ -1,1 +1,1 @@
-{"name": "매듭_이론", "id": 886789, "predecessors": [{"name": "공예", "id": 169381}], "successors": []}
+{"name": "매듭_이론", "id": 886789, "predecessors": [{"name": "대수적_위상수학", "id": 116427}, {"name": "위상수학", "id": 6571}], "successors": []}

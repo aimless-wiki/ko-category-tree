@@ -1,1 +1,1 @@
-{"name": "생화학_기법", "id": 2949782, "predecessors": [{"name": "생화학", "id": 12236}, {"name": "실험_기술", "id": 1099815}], "successors": [{"name": "단백질_기법", "id": 3651460}]}
+{"name": "생화학_기법", "id": 2949782, "predecessors": [{"name": "생화학", "id": 12236}, {"name": "실험_기술", "id": 1099815}], "successors": []}

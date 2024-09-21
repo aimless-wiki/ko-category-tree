@@ -1,1 +1,1 @@
-{"name": "전기화학", "id": 42872, "predecessors": [{"name": "물리화학", "id": 49826}, {"name": "전자기학", "id": 22651}], "successors": [{"name": "전지", "id": 32614}, {"name": "이온", "id": 40392}]}
+{"name": "전기화학", "id": 42872, "predecessors": [{"name": "물리화학", "id": 49826}, {"name": "전자기학", "id": 22651}], "successors": [{"name": "이온", "id": 40392}]}

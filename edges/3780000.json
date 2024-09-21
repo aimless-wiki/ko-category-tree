@@ -1,1 +1,1 @@
-{"name": "제안된_우주_탐사선", "id": 3780000, "predecessors": [{"name": "우주_탐사", "id": 213057}, {"name": "우주선", "id": 37687}], "successors": []}
+{"name": "제안된_우주_탐사선", "id": 3780000, "predecessors": [{"name": "우주_탐사", "id": 213057}, {"name": "우주_개발", "id": 44715}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "롤플레잉_게임", "id": 61213, "predecessors": [{"name": "생활", "id": 15596}], "successors": [{"name": "캐릭터_클래스", "id": 2983839}]}
+{"name": "롤플레잉_게임", "id": 61213, "predecessors": [{"name": "생활", "id": 15596}], "successors": [{"name": "롤플레잉_비디오_게임", "id": 118228}, {"name": "캐릭터_클래스", "id": 2983839}]}

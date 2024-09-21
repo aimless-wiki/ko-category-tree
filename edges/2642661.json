@@ -1,1 +1,1 @@
-{"name": "최상위_포식자", "id": 2642661, "predecessors": [{"name": "생태학", "id": 31806}, {"name": "식육목", "id": 20623}, {"name": "건강", "id": 48996}], "successors": []}
+{"name": "최상위_포식자", "id": 2642661, "predecessors": [{"name": "동물생리학", "id": 479369}, {"name": "생태학", "id": 31806}, {"name": "생물학", "id": 8535}], "successors": []}

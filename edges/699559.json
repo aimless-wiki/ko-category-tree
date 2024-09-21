@@ -1,1 +1,1 @@
-{"name": "대수학_정리", "id": 699559, "predecessors": [{"name": "대수학", "id": 6596}, {"name": "가정_(논리학)", "id": 2571199}], "successors": []}
+{"name": "대수학_정리", "id": 699559, "predecessors": [{"name": "대수학", "id": 6596}], "successors": [{"name": "대수기하학_정리", "id": 2324770}]}

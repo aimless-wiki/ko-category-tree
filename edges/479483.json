@@ -1,1 +1,1 @@
-{"name": "국제_회의", "id": 479483, "predecessors": [{"name": "국제_관계", "id": 12141}, {"name": "회의", "id": 254853}], "successors": [{"name": "정상회담", "id": 1203135}]}
+{"name": "국제_회의", "id": 479483, "predecessors": [{"name": "국제_관계", "id": 12141}, {"name": "의사소통", "id": 82826}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "세계_무역_기구", "id": 655869, "predecessors": [{"name": "국제_경제_기구", "id": 657902}, {"name": "국제_무역", "id": 34129}], "successors": []}
+{"name": "세계_무역_기구", "id": 655869, "predecessors": [{"name": "국제_무역", "id": 34129}, {"name": "국제경제학", "id": 34128}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "날생선_요리", "id": 2011383, "predecessors": [{"name": "조리법", "id": 625821}], "successors": [{"name": "스시", "id": 550634}]}
+{"name": "날생선_요리", "id": 2011383, "predecessors": [{"name": "생선_요리", "id": 580197}, {"name": "조리법", "id": 625821}], "successors": [{"name": "스시", "id": 550634}]}

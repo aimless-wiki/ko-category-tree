@@ -1,1 +1,1 @@
-{"name": "식물의_생식", "id": 845698, "predecessors": [{"name": "생식", "id": 146243}], "successors": []}
+{"name": "식물의_생식", "id": 845698, "predecessors": [{"name": "생식", "id": 146243}], "successors": [{"name": "꽃가루받이", "id": 1617232}]}

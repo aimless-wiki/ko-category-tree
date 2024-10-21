@@ -1,1 +1,1 @@
-{"name": "북서항로", "id": 1902039, "predecessors": [{"name": "물", "id": 29686}, {"name": "대륙", "id": 11805}, {"name": "사학사", "id": 289053}], "successors": []}
+{"name": "북서항로", "id": 1902039, "predecessors": [{"name": "물", "id": 29686}, {"name": "자연지리학", "id": 123426}, {"name": "대륙", "id": 11805}, {"name": "사학사", "id": 289053}, {"name": "바다", "id": 11728}], "successors": []}

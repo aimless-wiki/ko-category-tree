@@ -1,1 +1,1 @@
-{"name": "여자_영화_감독", "id": 709913, "predecessors": [{"name": "성별", "id": 69640}, {"name": "공연_예술", "id": 12137}], "successors": []}
+{"name": "여자_영화_감독", "id": 709913, "predecessors": [{"name": "예술", "id": 4393}, {"name": "성별", "id": 69640}], "successors": []}

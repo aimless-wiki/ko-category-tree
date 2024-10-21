@@ -1,1 +1,1 @@
-{"name": "모더니스트_작가", "id": 1478602, "predecessors": [{"name": "문학", "id": 4392}, {"name": "예술", "id": 4393}], "successors": []}
+{"name": "모더니스트_작가", "id": 1478602, "predecessors": [{"name": "모더니즘", "id": 65483}, {"name": "문학", "id": 4392}], "successors": []}

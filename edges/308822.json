@@ -1,1 +1,1 @@
-{"name": "라디오_드라마", "id": 308822, "predecessors": [{"name": "드라마", "id": 112598}, {"name": "예술", "id": 4393}], "successors": [{"name": "드라마_CD", "id": 553098}]}
+{"name": "라디오_드라마", "id": 308822, "predecessors": [{"name": "드라마", "id": 112598}], "successors": [{"name": "드라마_CD", "id": 553098}]}

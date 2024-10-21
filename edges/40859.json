@@ -1,1 +1,1 @@
-{"name": "기후학", "id": 40859, "predecessors": [{"name": "자연지리학", "id": 123426}], "successors": [{"name": "기후", "id": 27946}]}
+{"name": "기후학", "id": 40859, "predecessors": [{"name": "자연지리학", "id": 123426}], "successors": [{"name": "기후", "id": 27946}, {"name": "절기", "id": 20795}, {"name": "여름", "id": 60712}, {"name": "겨울", "id": 60714}]}

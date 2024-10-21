@@ -1,1 +1,1 @@
-{"name": "주간_잡지", "id": 780131, "predecessors": [{"name": "시간의_단위", "id": 14893}], "successors": []}
+{"name": "주간_잡지", "id": 780131, "predecessors": [{"name": "문화", "id": 11876}, {"name": "시간의_단위", "id": 14893}], "successors": []}

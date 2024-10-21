@@ -1,1 +1,1 @@
-{"name": "약용_균류", "id": 3042926, "predecessors": [{"name": "식용_버섯", "id": 40542}, {"name": "사람속", "id": 2934503}], "successors": []}
+{"name": "약용_균류", "id": 3042926, "predecessors": [{"name": "식용_버섯", "id": 40542}, {"name": "식물학", "id": 12237}, {"name": "생물_분류", "id": 274997}, {"name": "건강", "id": 48996}], "successors": []}

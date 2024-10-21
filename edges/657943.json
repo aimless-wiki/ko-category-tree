@@ -1,1 +1,1 @@
-{"name": "물_공급", "id": 657943, "predecessors": [{"name": "물", "id": 29686}, {"name": "수문학", "id": 201776}], "successors": [{"name": "수질_오염", "id": 151118}]}
+{"name": "물_공급", "id": 657943, "predecessors": [{"name": "물", "id": 29686}, {"name": "수문학", "id": 201776}, {"name": "농업", "id": 56133}], "successors": [{"name": "수질_오염", "id": 151118}]}

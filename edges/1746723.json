@@ -1,1 +1,1 @@
-{"name": "직장_드라마", "id": 1746723, "predecessors": [{"name": "드라마", "id": 112598}, {"name": "고용", "id": 352365}], "successors": [{"name": "기업_드라마", "id": 1746288}]}
+{"name": "직장_드라마", "id": 1746723, "predecessors": [{"name": "드라마", "id": 112598}], "successors": [{"name": "기업_드라마", "id": 1746288}]}

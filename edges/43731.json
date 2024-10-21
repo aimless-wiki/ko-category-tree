@@ -1,1 +1,1 @@
-{"name": "차", "id": 43731, "predecessors": [{"name": "음료", "id": 33272}], "successors": []}
+{"name": "차", "id": 43731, "predecessors": [{"name": "음료", "id": 33272}, {"name": "식물해부학", "id": 394738}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "예멘_요리", "id": 152813, "predecessors": [{"name": "문화", "id": 11876}, {"name": "중동_요리", "id": 253481}], "successors": []}
+{"name": "예멘_요리", "id": 152813, "predecessors": [{"name": "아랍_요리", "id": 455389}, {"name": "문화", "id": 11876}, {"name": "음식", "id": 10475}, {"name": "중동_요리", "id": 253481}], "successors": []}

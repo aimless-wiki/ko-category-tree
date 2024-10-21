@@ -1,1 +1,1 @@
-{"name": "MacOS_소프트웨어", "id": 953844, "predecessors": [{"name": "MacOS", "id": 884110}, {"name": "운영체제", "id": 42780}, {"name": "컴퓨팅_플랫폼", "id": 134236}], "successors": [{"name": "MacOS_웹_브라우저", "id": 974401}, {"name": "MacOS_게임", "id": 1669941}]}
+{"name": "MacOS_소프트웨어", "id": 953844, "predecessors": [{"name": "MacOS", "id": 884110}, {"name": "운영체제", "id": 42780}, {"name": "맥_OS", "id": 512933}], "successors": [{"name": "MacOS_웹_브라우저", "id": 974401}, {"name": "MacOS_게임", "id": 1669941}]}

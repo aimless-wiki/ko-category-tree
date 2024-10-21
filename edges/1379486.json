@@ -1,1 +1,1 @@
-{"name": "괌의_태풍", "id": 1379486, "predecessors": [{"name": "기상_재해", "id": 667460}, {"name": "사회", "id": 31673}, {"name": "사학사", "id": 289053}], "successors": []}
+{"name": "괌의_태풍", "id": 1379486, "predecessors": [{"name": "기상_재해", "id": 667460}, {"name": "대륙", "id": 11805}, {"name": "사회", "id": 31673}], "successors": []}

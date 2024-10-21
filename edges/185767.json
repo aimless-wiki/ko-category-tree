@@ -1,1 +1,1 @@
-{"name": "천구좌표계", "id": 185767, "predecessors": [{"name": "구면천문학", "id": 34657}, {"name": "지도학", "id": 92335}, {"name": "가정_(논리학)", "id": 2571199}], "successors": []}
+{"name": "천구좌표계", "id": 185767, "predecessors": [{"name": "구면천문학", "id": 34657}, {"name": "좌표계", "id": 37660}, {"name": "지도학", "id": 92335}], "successors": []}

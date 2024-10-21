@@ -1,1 +1,1 @@
-{"name": "왜행성_후보", "id": 1425813, "predecessors": [{"name": "천체", "id": 12759}, {"name": "연구", "id": 53447}], "successors": []}
+{"name": "왜행성_후보", "id": 1425813, "predecessors": [{"name": "천문학", "id": 8614}, {"name": "천체", "id": 12759}], "successors": []}

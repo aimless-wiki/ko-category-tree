@@ -1,1 +1,1 @@
-{"name": "로마_지하철역", "id": 1023854, "predecessors": [{"name": "이탈리아의_도시", "id": 12384}, {"name": "문화", "id": 11876}], "successors": []}
+{"name": "로마_지하철역", "id": 1023854, "predecessors": [{"name": "도시", "id": 11363}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "로마_지하철_B선", "id": 1025896, "predecessors": [{"name": "지하공간", "id": 571991}], "successors": []}
+{"name": "로마_지하철_B선", "id": 1025896, "predecessors": [{"name": "대중_교통", "id": 40988}], "successors": []}

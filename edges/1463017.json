@@ -1,1 +1,1 @@
-{"name": "폭탄_테러", "id": 1463017, "predecessors": [{"name": "군사_기술", "id": 49576}, {"name": "폭력", "id": 32979}], "successors": []}
+{"name": "폭탄_테러", "id": 1463017, "predecessors": [{"name": "폭발물", "id": 112031}, {"name": "군사_기술", "id": 49576}, {"name": "폭력", "id": 32979}], "successors": []}

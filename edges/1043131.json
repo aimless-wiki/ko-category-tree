@@ -1,1 +1,1 @@
-{"name": "세계일주자", "id": 1043131, "predecessors": [{"name": "교통", "id": 11844}, {"name": "항법", "id": 123423}], "successors": []}
+{"name": "세계일주자", "id": 1043131, "predecessors": [{"name": "항법", "id": 123423}, {"name": "물리학", "id": 10482}], "successors": []}

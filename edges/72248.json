@@ -1,1 +1,1 @@
-{"name": "군정기", "id": 72248, "predecessors": [{"name": "정치", "id": 8537}, {"name": "군사", "id": 30023}, {"name": "군사_제도", "id": 33189}], "successors": [{"name": "한국의_군정기", "id": 652892}]}
+{"name": "군정기", "id": 72248, "predecessors": [{"name": "사회", "id": 31673}, {"name": "군사", "id": 30023}, {"name": "군사_제도", "id": 33189}], "successors": [{"name": "한국의_군정기", "id": 652892}]}

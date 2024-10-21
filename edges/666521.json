@@ -1,1 +1,1 @@
-{"name": "태평양의_지질", "id": 666521, "predecessors": [{"name": "사학사", "id": 289053}], "successors": []}
+{"name": "태평양의_지질", "id": 666521, "predecessors": [{"name": "태평양", "id": 11745}, {"name": "대륙", "id": 11805}, {"name": "바다", "id": 11728}], "successors": []}

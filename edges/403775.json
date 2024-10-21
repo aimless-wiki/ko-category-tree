@@ -1,1 +1,1 @@
-{"name": "아메바류", "id": 403775, "predecessors": [{"name": "원생생물", "id": 33008}, {"name": "생물학", "id": 8535}], "successors": []}
+{"name": "아메바류", "id": 403775, "predecessors": [{"name": "원생생물", "id": 33008}, {"name": "생물_분류", "id": 274997}], "successors": []}

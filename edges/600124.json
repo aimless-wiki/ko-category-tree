@@ -1,1 +1,1 @@
-{"name": "남해의_섬", "id": 600124, "predecessors": [{"name": "남해", "id": 521271}, {"name": "태평양", "id": 11745}, {"name": "지형", "id": 22389}], "successors": []}
+{"name": "남해의_섬", "id": 600124, "predecessors": [{"name": "태평양", "id": 11745}, {"name": "수역", "id": 70167}, {"name": "지형", "id": 22389}], "successors": []}

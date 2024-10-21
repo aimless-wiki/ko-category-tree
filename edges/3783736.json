@@ -1,1 +1,1 @@
-{"name": "비접촉식_스마트_카드", "id": 3783736, "predecessors": [{"name": "가전제품", "id": 49842}, {"name": "결제_수단", "id": 215528}], "successors": []}
+{"name": "비접촉식_스마트_카드", "id": 3783736, "predecessors": [{"name": "결제_수단", "id": 215528}, {"name": "가전제품", "id": 49842}], "successors": []}

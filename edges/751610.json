@@ -1,1 +1,1 @@
-{"name": "젖", "id": 751610, "predecessors": [{"name": "축산", "id": 257033}, {"name": "음료", "id": 33272}], "successors": []}
+{"name": "젖", "id": 751610, "predecessors": [{"name": "축산", "id": 257033}, {"name": "음료", "id": 33272}], "successors": [{"name": "유제품", "id": 46140}]}

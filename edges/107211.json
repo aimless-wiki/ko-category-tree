@@ -1,1 +1,1 @@
-{"name": "조류", "id": 107211, "predecessors": [{"name": "물", "id": 29686}], "successors": []}
+{"name": "조류", "id": 107211, "predecessors": [{"name": "원생생물", "id": 33008}, {"name": "물", "id": 29686}], "successors": [{"name": "와편모충류", "id": 601245}]}

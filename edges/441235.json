@@ -1,1 +1,1 @@
-{"name": "영화_사운드트랙_음반", "id": 441235, "predecessors": [{"name": "영화_제작", "id": 415024}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "영화_사운드트랙_음반", "id": 441235, "predecessors": [{"name": "음악_장르", "id": 33382}], "successors": []}

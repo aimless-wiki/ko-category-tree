@@ -1,1 +1,1 @@
-{"name": "라멘", "id": 556485, "predecessors": [{"name": "패스트_푸드", "id": 40211}], "successors": []}
+{"name": "라멘", "id": 556485, "predecessors": [{"name": "국물국수", "id": 1983153}, {"name": "패스트_푸드", "id": 40211}, {"name": "일본_요리", "id": 48742}], "successors": []}

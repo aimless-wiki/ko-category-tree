@@ -1,1 +1,1 @@
-{"name": "에너지_저장", "id": 925086, "predecessors": [{"name": "에너지", "id": 20713}], "successors": []}
+{"name": "에너지_저장", "id": 925086, "predecessors": [{"name": "에너지", "id": 20713}], "successors": [{"name": "전지", "id": 32614}]}

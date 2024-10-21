@@ -1,1 +1,1 @@
-{"name": "영어_신문", "id": 573369, "predecessors": [{"name": "신문", "id": 11865}, {"name": "위키백과_관리", "id": 39546}], "successors": []}
+{"name": "영어_신문", "id": 573369, "predecessors": [{"name": "신문", "id": 11865}, {"name": "언어", "id": 8185}], "successors": []}

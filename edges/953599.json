@@ -1,1 +1,1 @@
-{"name": "암_치료", "id": 953599, "predecessors": [{"name": "암", "id": 38028}], "successors": []}
+{"name": "암_치료", "id": 953599, "predecessors": [{"name": "암", "id": 38028}, {"name": "의학적_치료", "id": 3331455}], "successors": []}

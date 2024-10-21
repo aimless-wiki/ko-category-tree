@@ -1,1 +1,1 @@
-{"name": "고균", "id": 19944, "predecessors": [{"name": "세균", "id": 33004}, {"name": "생물학", "id": 8535}], "successors": []}
+{"name": "고균", "id": 19944, "predecessors": [{"name": "세균", "id": 33004}, {"name": "생물_분류", "id": 274997}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "토요타_자동차의_차종", "id": 413214, "predecessors": [{"name": "토요타_자동차", "id": 81540}], "successors": []}
+{"name": "토요타_자동차의_차종", "id": 413214, "predecessors": [{"name": "토요타_자동차", "id": 81540}, {"name": "마케팅", "id": 56677}, {"name": "사회", "id": 31673}], "successors": []}

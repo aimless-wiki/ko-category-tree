@@ -1,1 +1,1 @@
-{"name": "고시", "id": 511237, "predecessors": [{"name": "자격시험", "id": 268846}, {"name": "측정", "id": 33499}], "successors": [{"name": "과거_급제자", "id": 209184}]}
+{"name": "고시", "id": 511237, "predecessors": [{"name": "교육_평가", "id": 501201}, {"name": "자격시험", "id": 268846}, {"name": "측정", "id": 33499}], "successors": [{"name": "과거_급제자", "id": 209184}]}

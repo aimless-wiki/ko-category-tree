@@ -1,1 +1,1 @@
-{"name": "혈액학", "id": 33428, "predecessors": [{"name": "의학_분야", "id": 48482}], "successors": [{"name": "혈액_검사", "id": 628892}]}
+{"name": "혈액학", "id": 33428, "predecessors": [{"name": "의학_분야", "id": 48482}, {"name": "혈액", "id": 12486}], "successors": [{"name": "혈액_검사", "id": 628892}]}

@@ -1,1 +1,1 @@
-{"name": "여자_대통령", "id": 2492168, "predecessors": [{"name": "관직", "id": 307068}, {"name": "국가", "id": 41694}, {"name": "국가원수", "id": 39882}], "successors": []}
+{"name": "여자_대통령", "id": 2492168, "predecessors": [{"name": "관직", "id": 307068}, {"name": "정치인", "id": 15546}, {"name": "국가원수", "id": 39882}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "여성의_생식_기관", "id": 146244, "predecessors": [{"name": "인간의_성", "id": 122753}, {"name": "공중위생", "id": 289107}], "successors": []}
+{"name": "여성의_생식_기관", "id": 146244, "predecessors": [{"name": "인간의_성", "id": 122753}, {"name": "공중위생", "id": 289107}], "successors": [{"name": "산과학", "id": 753867}]}

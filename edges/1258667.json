@@ -1,1 +1,1 @@
-{"name": "손짓", "id": 1258667, "predecessors": [{"name": "인간_행동", "id": 41590}, {"name": "의사소통", "id": 82826}], "successors": []}
+{"name": "손짓", "id": 1258667, "predecessors": [{"name": "손", "id": 617839}, {"name": "인간_행동", "id": 41590}, {"name": "의사소통", "id": 82826}], "successors": []}

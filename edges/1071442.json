@@ -1,1 +1,1 @@
-{"name": "스위스의_철도_터널", "id": 1071442, "predecessors": [{"name": "개발", "id": 294686}, {"name": "건축공학", "id": 84825}], "successors": []}
+{"name": "스위스의_철도_터널", "id": 1071442, "predecessors": [{"name": "철도", "id": 14768}, {"name": "대륙", "id": 11805}, {"name": "건축", "id": 240606}], "successors": []}

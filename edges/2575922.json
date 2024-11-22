@@ -1,1 +1,1 @@
-{"name": "케이블카", "id": 2575922, "predecessors": [{"name": "교통", "id": 11844}, {"name": "대중_교통", "id": 40988}], "successors": []}
+{"name": "케이블카", "id": 2575922, "predecessors": [{"name": "대중_교통", "id": 40988}, {"name": "물리학", "id": 10482}], "successors": []}

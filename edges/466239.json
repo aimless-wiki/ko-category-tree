@@ -1,1 +1,1 @@
-{"name": "해저_터널", "id": 466239, "predecessors": [{"name": "건축공학", "id": 84825}], "successors": []}
+{"name": "해저_터널", "id": 466239, "predecessors": [{"name": "건축공학", "id": 84825}, {"name": "건축물", "id": 28224}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "교회력", "id": 93472, "predecessors": [{"name": "역법", "id": 67204}], "successors": []}
+{"name": "교회력", "id": 93472, "predecessors": [{"name": "역법", "id": 67204}, {"name": "문화연구", "id": 395684}], "successors": [{"name": "성인_축일", "id": 560544}]}

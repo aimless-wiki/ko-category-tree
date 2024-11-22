@@ -1,1 +1,1 @@
-{"name": "사후_세계", "id": 653801, "predecessors": [{"name": "가공의_세계", "id": 47989}, {"name": "사상", "id": 264909}, {"name": "위상수학", "id": 6571}], "successors": [{"name": "지옥", "id": 564453}]}
+{"name": "사후_세계", "id": 653801, "predecessors": [{"name": "사상", "id": 264909}, {"name": "수학_용어", "id": 116469}], "successors": [{"name": "지옥", "id": 564453}]}

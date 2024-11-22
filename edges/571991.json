@@ -1,1 +1,1 @@
-{"name": "지하공간", "id": 571991, "predecessors": [{"name": "자연지리학", "id": 123426}, {"name": "환경", "id": 12071}, {"name": "위상수학", "id": 6571}], "successors": []}
+{"name": "지하공간", "id": 571991, "predecessors": [{"name": "자연지리학", "id": 123426}, {"name": "환경", "id": 12071}, {"name": "건설", "id": 289085}, {"name": "수학_용어", "id": 116469}], "successors": []}

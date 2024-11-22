@@ -1,1 +1,1 @@
-{"name": "산부인과_암", "id": 1587544, "predecessors": [{"name": "암", "id": 38028}, {"name": "해부학", "id": 13494}], "successors": []}
+{"name": "산부인과_암", "id": 1587544, "predecessors": [{"name": "암", "id": 38028}, {"name": "골반", "id": 1339606}], "successors": [{"name": "난소암으로_죽은_사람", "id": 819094}]}

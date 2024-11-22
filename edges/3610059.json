@@ -1,1 +1,1 @@
-{"name": "바람의_남신", "id": 3610059, "predecessors": [{"name": "바람의_신", "id": 220835}, {"name": "남신", "id": 46046}], "successors": []}
+{"name": "바람의_남신", "id": 3610059, "predecessors": [{"name": "남신", "id": 46046}, {"name": "날씨", "id": 27943}], "successors": []}

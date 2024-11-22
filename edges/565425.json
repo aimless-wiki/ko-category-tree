@@ -1,1 +1,1 @@
-{"name": "BBC의_텔레비전_프로그램", "id": 565425, "predecessors": [{"name": "가전제품", "id": 49842}, {"name": "BBC", "id": 496090}], "successors": [{"name": "BBC_텔레비전_드라마", "id": 565442}, {"name": "토마스와_친구들_영화", "id": 3635105}]}
+{"name": "BBC의_텔레비전_프로그램", "id": 565425, "predecessors": [{"name": "BBC", "id": 496090}, {"name": "예술", "id": 4393}], "successors": [{"name": "BBC_텔레비전_드라마", "id": 565442}, {"name": "토마스와_친구들_영화", "id": 3635105}]}

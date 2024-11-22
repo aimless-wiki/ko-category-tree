@@ -1,1 +1,1 @@
-{"name": "남해군의_교통", "id": 432811, "predecessors": [{"name": "행정_구역_단위", "id": 581695}], "successors": []}
+{"name": "남해군의_교통", "id": 432811, "predecessors": [{"name": "남해군", "id": 32757}, {"name": "행정_구역_단위", "id": 581695}], "successors": []}

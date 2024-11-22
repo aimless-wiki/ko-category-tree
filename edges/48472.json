@@ -1,1 +1,1 @@
-{"name": "RNA", "id": 48472, "predecessors": [{"name": "핵산", "id": 37949}], "successors": [{"name": "비부호화_RNA", "id": 3124485}, {"name": "HIV/AIDS", "id": 1309349}]}
+{"name": "RNA", "id": 48472, "predecessors": [{"name": "뉴클레오타이드", "id": 871137}], "successors": [{"name": "HIV/AIDS", "id": 1309349}]}

@@ -1,1 +1,1 @@
-{"name": "자살한_배우", "id": 434945, "predecessors": [{"name": "공연_예술", "id": 12137}], "successors": []}
+{"name": "자살한_배우", "id": 434945, "predecessors": [{"name": "연기_(예술)", "id": 610832}, {"name": "자살한_사람", "id": 38953}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "연극_장르", "id": 562539, "predecessors": [{"name": "연극", "id": 12136}, {"name": "위키백과_관리", "id": 39546}], "successors": [{"name": "인형극", "id": 534447}]}
+{"name": "연극_장르", "id": 562539, "predecessors": [{"name": "연극", "id": 12136}, {"name": "위키백과_관리", "id": 39546}], "successors": [{"name": "발레", "id": 21770}, {"name": "인형극", "id": 534447}]}

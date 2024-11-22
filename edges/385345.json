@@ -1,1 +1,1 @@
-{"name": "UD_레이리아의_축구_선수", "id": 385345, "predecessors": [{"name": "문화유산", "id": 395683}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}
+{"name": "UD_레이리아의_축구_선수", "id": 385345, "predecessors": [{"name": "도시", "id": 11363}, {"name": "스포츠_관련_직업", "id": 274212}], "successors": []}

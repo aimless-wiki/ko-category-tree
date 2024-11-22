@@ -1,1 +1,1 @@
-{"name": "발작을_일으키는_장애", "id": 3780296, "predecessors": [{"name": "건강", "id": 48996}], "successors": []}
+{"name": "발작을_일으키는_장애", "id": 3780296, "predecessors": [{"name": "건강", "id": 48996}], "successors": [{"name": "항경련제", "id": 593611}]}

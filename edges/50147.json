@@ -1,1 +1,1 @@
-{"name": "성병", "id": 50147, "predecessors": [{"name": "성행위", "id": 652514}, {"name": "감염병", "id": 34410}], "successors": [{"name": "HIV/AIDS", "id": 1309349}, {"name": "HIV/AIDS를_소재로_한_영화", "id": 895393}]}
+{"name": "성병", "id": 50147, "predecessors": [{"name": "성행위", "id": 652514}, {"name": "발생생물학", "id": 35483}, {"name": "감염병", "id": 34410}], "successors": [{"name": "HIV/AIDS", "id": 1309349}]}

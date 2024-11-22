@@ -1,1 +1,1 @@
-{"name": "리믹서", "id": 1421142, "predecessors": [{"name": "음악_장르", "id": 33382}, {"name": "생산_및_제조", "id": 98522}], "successors": []}
+{"name": "리믹서", "id": 1421142, "predecessors": [{"name": "음악_장르", "id": 33382}, {"name": "음악_기법", "id": 13207}, {"name": "소리", "id": 38960}], "successors": []}

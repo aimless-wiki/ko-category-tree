@@ -1,1 +1,1 @@
-{"name": "골반", "id": 1339606, "predecessors": [{"name": "인체해부학", "id": 23087}], "successors": []}
+{"name": "골반", "id": 1339606, "predecessors": [{"name": "인체해부학", "id": 23087}], "successors": [{"name": "임신", "id": 65668}, {"name": "월경", "id": 219509}, {"name": "산부인과_암", "id": 1587544}]}

@@ -1,1 +1,1 @@
-{"name": "대전광역시청", "id": 881899, "predecessors": [{"name": "대전광역시", "id": 6121}, {"name": "문화유산", "id": 395683}], "successors": []}
+{"name": "대전광역시청", "id": 881899, "predecessors": [{"name": "대전광역시", "id": 6121}, {"name": "도시", "id": 11363}], "successors": [{"name": "대전광역시장", "id": 304964}]}

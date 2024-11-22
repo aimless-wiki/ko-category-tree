@@ -1,1 +1,1 @@
-{"name": "금융지주회사", "id": 780016, "predecessors": [{"name": "금융_기업", "id": 125563}, {"name": "기업", "id": 11886}], "successors": []}
+{"name": "금융지주회사", "id": 780016, "predecessors": [{"name": "유형별_기업", "id": 1102150}, {"name": "기업", "id": 11886}], "successors": []}

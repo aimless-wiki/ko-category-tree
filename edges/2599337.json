@@ -1,1 +1,1 @@
-{"name": "상트페테르부르크_지하철역", "id": 2599337, "predecessors": [{"name": "교통", "id": 11844}, {"name": "대륙", "id": 11805}], "successors": []}
+{"name": "상트페테르부르크_지하철역", "id": 2599337, "predecessors": [{"name": "사회", "id": 31673}, {"name": "대중_교통", "id": 40988}], "successors": []}

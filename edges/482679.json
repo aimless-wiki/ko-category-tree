@@ -1,1 +1,1 @@
-{"name": "도마뱀붙이과", "id": 482679, "predecessors": [{"name": "생물학", "id": 8535}], "successors": [{"name": "낮도마뱀붙이속", "id": 2626877}]}
+{"name": "도마뱀붙이과", "id": 482679, "predecessors": [{"name": "생물_분류", "id": 274997}], "successors": [{"name": "낮도마뱀붙이속", "id": 2626877}]}

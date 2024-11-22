@@ -1,1 +1,1 @@
-{"name": "유명한_소나무", "id": 1022862, "predecessors": [{"name": "생물", "id": 9143}], "successors": []}
+{"name": "유명한_소나무", "id": 1022862, "predecessors": [{"name": "나무", "id": 81620}, {"name": "소나무과", "id": 38871}], "successors": []}

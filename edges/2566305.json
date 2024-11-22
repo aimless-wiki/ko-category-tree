@@ -1,1 +1,1 @@
-{"name": "보컬_트레이너", "id": 2566305, "predecessors": [{"name": "학문_분야", "id": 275046}], "successors": []}
+{"name": "보컬_트레이너", "id": 2566305, "predecessors": [{"name": "가창", "id": 934634}, {"name": "학문_분야", "id": 275046}], "successors": []}

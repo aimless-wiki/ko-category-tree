@@ -1,1 +1,1 @@
-{"name": "림프계", "id": 478201, "predecessors": [{"name": "면역계", "id": 478208}, {"name": "체액", "id": 92617}, {"name": "해부학", "id": 13494}], "successors": []}
+{"name": "림프계", "id": 478201, "predecessors": [{"name": "면역계", "id": 478208}, {"name": "체액", "id": 92617}, {"name": "해부학", "id": 13494}], "successors": [{"name": "부종으로_죽은_사람", "id": 1829821}]}

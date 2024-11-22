@@ -1,1 +1,1 @@
-{"name": "자기", "id": 137452, "predecessors": [{"name": "전자기학", "id": 22651}], "successors": [{"name": "자기권", "id": 201730}]}
+{"name": "자기", "id": 137452, "predecessors": [{"name": "전자기학", "id": 22651}], "successors": [{"name": "가공의_전기_능력자", "id": 1589310}, {"name": "자기권", "id": 201730}, {"name": "전파천문학", "id": 125735}]}

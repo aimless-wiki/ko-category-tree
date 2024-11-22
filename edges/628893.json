@@ -1,1 +1,1 @@
-{"name": "뇌신경", "id": 628893, "predecessors": [{"name": "뇌", "id": 89236}, {"name": "두경부", "id": 509770}], "successors": []}
+{"name": "뇌신경", "id": 628893, "predecessors": [{"name": "뇌", "id": 89236}, {"name": "신경계", "id": 478190}, {"name": "두경부", "id": 509770}], "successors": []}

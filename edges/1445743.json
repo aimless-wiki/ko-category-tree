@@ -1,1 +1,1 @@
-{"name": "리눅스_커널_인터페이스", "id": 1445743, "predecessors": [{"name": "리눅스_API", "id": 3051617}, {"name": "리눅스", "id": 19726}], "successors": []}
+{"name": "리눅스_커널_인터페이스", "id": 1445743, "predecessors": [{"name": "리눅스_API", "id": 3051617}, {"name": "리눅스", "id": 19726}, {"name": "컴퓨터_표준", "id": 662635}], "successors": []}

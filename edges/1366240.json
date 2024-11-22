@@ -1,1 +1,1 @@
-{"name": "리버풀_FC_경기", "id": 1366240, "predecessors": [{"name": "프리미어리그_구단", "id": 1189983}], "successors": []}
+{"name": "리버풀_FC_경기", "id": 1366240, "predecessors": [{"name": "행정_구역", "id": 30195}, {"name": "문화", "id": 11876}], "successors": []}

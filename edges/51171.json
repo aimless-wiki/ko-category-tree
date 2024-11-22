@@ -1,1 +1,1 @@
-{"name": "대테러_부대", "id": 51171, "predecessors": [{"name": "국가안전보장", "id": 1656113}], "successors": []}
+{"name": "대테러_부대", "id": 51171, "predecessors": [{"name": "경찰", "id": 173142}, {"name": "군사_교리", "id": 779755}], "successors": []}

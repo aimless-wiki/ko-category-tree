@@ -1,1 +1,1 @@
-{"name": "가공의_개", "id": 511679, "predecessors": [{"name": "개", "id": 12278}, {"name": "생물학", "id": 8535}], "successors": [{"name": "신화의_개", "id": 317315}]}
+{"name": "가공의_개", "id": 511679, "predecessors": [{"name": "인간과_동물", "id": 774962}, {"name": "생물_분류", "id": 274997}], "successors": [{"name": "신화의_개", "id": 317315}]}

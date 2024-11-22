@@ -1,1 +1,1 @@
-{"name": "압축_소프트웨어", "id": 38480, "predecessors": [{"name": "데이터_압축", "id": 49070}], "successors": []}
+{"name": "압축_소프트웨어", "id": 38480, "predecessors": [{"name": "데이터_압축", "id": 49070}, {"name": "응용_소프트웨어", "id": 14903}, {"name": "위키백과_관리", "id": 39546}], "successors": []}

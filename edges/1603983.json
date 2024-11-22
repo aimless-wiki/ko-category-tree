@@ -1,1 +1,1 @@
-{"name": "오다큐_전철의_철도역", "id": 1603983, "predecessors": [{"name": "기업", "id": 11886}], "successors": []}
+{"name": "오다큐_전철의_철도역", "id": 1603983, "predecessors": [{"name": "유형별_기업", "id": 1102150}, {"name": "기업", "id": 11886}], "successors": []}

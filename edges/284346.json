@@ -1,1 +1,1 @@
-{"name": "염증", "id": 284346, "predecessors": [{"name": "증상", "id": 148310}], "successors": [{"name": "간염", "id": 48479}]}
+{"name": "염증", "id": 284346, "predecessors": [{"name": "면역계", "id": 478208}, {"name": "증상", "id": 148310}], "successors": []}

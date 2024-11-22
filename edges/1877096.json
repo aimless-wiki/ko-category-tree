@@ -1,1 +1,1 @@
-{"name": "식용_갑각류", "id": 1877096, "predecessors": [{"name": "음식", "id": 10475}], "successors": []}
+{"name": "식용_갑각류", "id": 1877096, "predecessors": [{"name": "생물_분류", "id": 274997}, {"name": "음식", "id": 10475}], "successors": []}

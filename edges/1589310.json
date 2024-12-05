@@ -1,1 +1,1 @@
-{"name": "가공의_전기_능력자", "id": 1589310, "predecessors": [{"name": "자기", "id": 137452}, {"name": "전기", "id": 12601}], "successors": []}
+{"name": "가공의_전기_능력자", "id": 1589310, "predecessors": [{"name": "자기", "id": 137452}, {"name": "전기", "id": 12601}, {"name": "가공의_사람", "id": 40106}], "successors": []}

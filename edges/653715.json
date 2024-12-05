@@ -1,1 +1,1 @@
-{"name": "전미_농구_협회_영구_결번", "id": 653715, "predecessors": [{"name": "NBA_상", "id": 871586}, {"name": "구기", "id": 11446}], "successors": []}
+{"name": "전미_농구_협회_영구_결번", "id": 653715, "predecessors": [{"name": "NBA_상", "id": 871586}, {"name": "전미_농구_협회", "id": 107905}, {"name": "수", "id": 12193}], "successors": []}

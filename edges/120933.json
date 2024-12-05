@@ -1,1 +1,1 @@
-{"name": "게임_등급_심의", "id": 120933, "predecessors": [{"name": "검열", "id": 47218}, {"name": "평가_방법", "id": 501027}], "successors": []}
+{"name": "게임_등급_심의", "id": 120933, "predecessors": [{"name": "검열", "id": 47218}, {"name": "지식_표현", "id": 275232}], "successors": []}

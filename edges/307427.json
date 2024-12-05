@@ -1,1 +1,1 @@
-{"name": "상하이_지하철역", "id": 307427, "predecessors": [{"name": "대륙", "id": 11805}, {"name": "중국의_도시_철도", "id": 324946}], "successors": []}
+{"name": "상하이_지하철역", "id": 307427, "predecessors": [{"name": "대륙", "id": 11805}, {"name": "대중_교통", "id": 40988}], "successors": []}

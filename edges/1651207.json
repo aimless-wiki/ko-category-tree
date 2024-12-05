@@ -1,1 +1,1 @@
-{"name": "생이하목", "id": 1651207, "predecessors": [{"name": "생물_분류", "id": 274997}], "successors": [{"name": "새우_요리", "id": 1651206}]}
+{"name": "생이하목", "id": 1651207, "predecessors": [{"name": "동물학", "id": 12309}], "successors": [{"name": "새우_요리", "id": 1651206}]}

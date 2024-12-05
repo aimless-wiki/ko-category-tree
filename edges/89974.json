@@ -1,1 +1,1 @@
-{"name": "중파방송", "id": 89974, "predecessors": [{"name": "무선", "id": 104327}], "successors": [{"name": "일본의_AM_라디오_방송국", "id": 877152}]}
+{"name": "중파방송", "id": 89974, "predecessors": [{"name": "방송", "id": 15145}], "successors": [{"name": "일본의_AM_라디오_방송국", "id": 877152}]}

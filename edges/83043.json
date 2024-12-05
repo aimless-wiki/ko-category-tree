@@ -1,1 +1,1 @@
-{"name": "기병", "id": 83043, "predecessors": [{"name": "말", "id": 190409}], "successors": []}
+{"name": "기병", "id": 83043, "predecessors": [{"name": "말", "id": 190409}, {"name": "군사", "id": 30023}], "successors": [{"name": "가공의_궁수", "id": 654438}]}

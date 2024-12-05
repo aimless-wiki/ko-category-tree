@@ -1,1 +1,1 @@
-{"name": "금속가공", "id": 103492, "predecessors": [{"name": "금속", "id": 12742}, {"name": "공학", "id": 11440}, {"name": "지식", "id": 15616}], "successors": [{"name": "범종", "id": 1857175}]}
+{"name": "금속가공", "id": 103492, "predecessors": [{"name": "금속", "id": 12742}, {"name": "기계", "id": 98519}, {"name": "지식", "id": 15616}], "successors": [{"name": "범종", "id": 1857175}]}

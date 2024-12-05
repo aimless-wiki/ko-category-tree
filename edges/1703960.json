@@ -1,1 +1,1 @@
-{"name": "유독포유류", "id": 1703960, "predecessors": [{"name": "생물_분류", "id": 274997}, {"name": "독물학", "id": 33722}], "successors": []}
+{"name": "유독포유류", "id": 1703960, "predecessors": [{"name": "독물학", "id": 33722}, {"name": "동물학", "id": 12309}], "successors": []}

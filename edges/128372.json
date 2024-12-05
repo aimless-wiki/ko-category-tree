@@ -1,1 +1,1 @@
-{"name": "타이어", "id": 128372, "predecessors": [{"name": "마케팅", "id": 56677}, {"name": "도구", "id": 30522}, {"name": "탈것", "id": 41512}, {"name": "재료", "id": 50188}], "successors": []}
+{"name": "타이어", "id": 128372, "predecessors": [{"name": "마케팅", "id": 56677}, {"name": "도구", "id": 30522}, {"name": "탈것", "id": 41512}], "successors": []}

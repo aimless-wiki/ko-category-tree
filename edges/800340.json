@@ -1,1 +1,1 @@
-{"name": "미국의_함대", "id": 800340, "predecessors": [{"name": "군사", "id": 30023}], "successors": []}
+{"name": "미국의_함대", "id": 800340, "predecessors": [{"name": "해군", "id": 41359}, {"name": "군사", "id": 30023}], "successors": []}

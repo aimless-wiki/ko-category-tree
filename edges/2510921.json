@@ -1,1 +1,1 @@
-{"name": "가공의_요리사", "id": 2510921, "predecessors": [{"name": "가공의_사람", "id": 40106}, {"name": "직업", "id": 33338}], "successors": []}
+{"name": "가공의_요리사", "id": 2510921, "predecessors": [{"name": "가공의_사람", "id": 40106}, {"name": "음식", "id": 10475}], "successors": []}

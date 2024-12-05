@@ -1,1 +1,1 @@
-{"name": "CBC의_텔레비전_프로그램", "id": 1058275, "predecessors": [{"name": "국영_매체", "id": 3850492}, {"name": "가전제품", "id": 49842}], "successors": []}
+{"name": "CBC의_텔레비전_프로그램", "id": 1058275, "predecessors": [{"name": "공영_방송", "id": 621940}, {"name": "가전제품", "id": 49842}], "successors": []}

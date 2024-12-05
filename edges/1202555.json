@@ -1,1 +1,1 @@
-{"name": "전갱이목", "id": 1202555, "predecessors": [{"name": "생물_분류", "id": 274997}], "successors": []}
+{"name": "전갱이목", "id": 1202555, "predecessors": [{"name": "동물학", "id": 12309}], "successors": [{"name": "전갱이과", "id": 276422}]}

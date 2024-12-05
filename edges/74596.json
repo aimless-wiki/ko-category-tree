@@ -1,1 +1,1 @@
-{"name": "조기경보기", "id": 74596, "predecessors": [{"name": "군사_기술", "id": 49576}], "successors": []}
+{"name": "조기경보기", "id": 74596, "predecessors": [{"name": "도구", "id": 30522}, {"name": "항공기", "id": 30021}], "successors": []}

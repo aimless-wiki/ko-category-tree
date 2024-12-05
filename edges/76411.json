@@ -1,1 +1,1 @@
-{"name": "정찰기", "id": 76411, "predecessors": [{"name": "군사_기술", "id": 49576}, {"name": "군사_전략", "id": 729187}, {"name": "지구과학", "id": 10481}], "successors": []}
+{"name": "정찰기", "id": 76411, "predecessors": [{"name": "항공기", "id": 30021}, {"name": "지구과학", "id": 10481}], "successors": []}

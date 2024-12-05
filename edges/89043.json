@@ -1,1 +1,1 @@
-{"name": "퍼즐_게임", "id": 89043, "predecessors": [{"name": "퍼즐", "id": 29914}], "successors": [{"name": "뿌요뿌요", "id": 816524}]}
+{"name": "퍼즐_게임", "id": 89043, "predecessors": [{"name": "퍼즐", "id": 29914}, {"name": "생활", "id": 15596}], "successors": []}

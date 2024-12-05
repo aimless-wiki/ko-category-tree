@@ -1,1 +1,1 @@
-{"name": "콜라주_영화", "id": 3333159, "predecessors": [{"name": "예술", "id": 4393}, {"name": "대중문화", "id": 107195}], "successors": []}
+{"name": "콜라주_영화", "id": 3333159, "predecessors": [{"name": "예술", "id": 4393}, {"name": "영화_기법", "id": 291926}], "successors": []}

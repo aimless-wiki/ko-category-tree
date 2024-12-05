@@ -1,1 +1,1 @@
-{"name": "실시간_운영체제", "id": 3615532, "predecessors": [{"name": "운영체제", "id": 42780}, {"name": "제어이론", "id": 100579}], "successors": []}
+{"name": "실시간_운영체제", "id": 3615532, "predecessors": [{"name": "운영체제", "id": 42780}, {"name": "임베디드_시스템", "id": 22535}], "successors": []}

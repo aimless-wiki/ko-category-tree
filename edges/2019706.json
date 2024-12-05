@@ -1,1 +1,1 @@
-{"name": "조울증_환자", "id": 2019706, "predecessors": [{"name": "기분_장애_환자", "id": 1988529}, {"name": "감정", "id": 74501}], "successors": []}
+{"name": "조울증_환자", "id": 2019706, "predecessors": [{"name": "기분_장애_환자", "id": 1988529}, {"name": "이상심리학", "id": 43862}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "PHP_소프트웨어", "id": 1962997, "predecessors": [{"name": "PHP", "id": 48450}, {"name": "소셜_네트워크", "id": 564972}], "successors": [{"name": "PHP로_작성된_자유_소프트웨어", "id": 2299481}]}
+{"name": "PHP_소프트웨어", "id": 1962997, "predecessors": [{"name": "PHP", "id": 48450}], "successors": [{"name": "PHP로_작성된_자유_소프트웨어", "id": 2299481}]}

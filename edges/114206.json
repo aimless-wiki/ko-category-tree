@@ -1,1 +1,1 @@
-{"name": "교수형된_사람", "id": 114206, "predecessors": [{"name": "사형된_사람", "id": 95680}, {"name": "사형_방법", "id": 695192}], "successors": []}
+{"name": "교수형된_사람", "id": 114206, "predecessors": [{"name": "사형된_사람", "id": 95680}, {"name": "인간_행동", "id": 41590}], "successors": []}

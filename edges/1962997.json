@@ -1,1 +1,1 @@
-{"name": "PHP_소프트웨어", "id": 1962997, "predecessors": [{"name": "PHP", "id": 48450}], "successors": [{"name": "PHP로_작성된_자유_소프트웨어", "id": 2299481}]}
+{"name": "PHP_소프트웨어", "id": 1962997, "predecessors": [{"name": "C_프로그래밍_언어_계열", "id": 1963487}], "successors": [{"name": "PHP로_작성된_자유_소프트웨어", "id": 2299481}]}

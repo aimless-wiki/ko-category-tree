@@ -1,1 +1,1 @@
-{"name": "식용작물", "id": 267334, "predecessors": [{"name": "농작물", "id": 33274}, {"name": "식자재", "id": 695629}], "successors": [{"name": "밀", "id": 693967}]}
+{"name": "식용작물", "id": 267334, "predecessors": [{"name": "농작물", "id": 33274}, {"name": "식용식물", "id": 71483}], "successors": [{"name": "밀", "id": 693967}]}

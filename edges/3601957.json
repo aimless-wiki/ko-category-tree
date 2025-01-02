@@ -1,1 +1,1 @@
-{"name": "네이처서브_보전상태_안전보장종", "id": 3601957, "predecessors": [{"name": "환경_문제", "id": 483925}], "successors": []}
+{"name": "네이처서브_보전상태_안전보장종", "id": 3601957, "predecessors": [{"name": "환경", "id": 12071}], "successors": []}

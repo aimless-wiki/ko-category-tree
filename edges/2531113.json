@@ -1,1 +1,1 @@
-{"name": "UEFA_여자_유로_2013_참가_선수", "id": 2531113, "predecessors": [{"name": "UEFA_유럽_여자_축구_선수권_대회", "id": 1617945}], "successors": []}
+{"name": "UEFA_여자_유로_2013_참가_선수", "id": 2531113, "predecessors": [{"name": "유럽_선수권_대회", "id": 925228}, {"name": "문화유산", "id": 395683}], "successors": []}

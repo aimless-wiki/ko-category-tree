@@ -1,1 +1,1 @@
-{"name": "주력전차", "id": 913554, "predecessors": [{"name": "전차", "id": 43404}], "successors": []}
+{"name": "주력전차", "id": 913554, "predecessors": [{"name": "도로_교통", "id": 40989}], "successors": []}

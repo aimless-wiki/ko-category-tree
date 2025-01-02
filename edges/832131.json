@@ -1,1 +1,1 @@
-{"name": "내분비_질환", "id": 832131, "predecessors": [{"name": "내분비학", "id": 50295}, {"name": "질병", "id": 11913}], "successors": []}
+{"name": "내분비_질환", "id": 832131, "predecessors": [{"name": "의학_분야", "id": 48482}, {"name": "질병", "id": 11913}], "successors": []}

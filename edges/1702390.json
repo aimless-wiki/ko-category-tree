@@ -1,1 +1,1 @@
-{"name": "AD_알코르콘의_축구_선수", "id": 1702390, "predecessors": [{"name": "세군다_디비시온_구단", "id": 3677450}, {"name": "생활", "id": 15596}], "successors": []}
+{"name": "AD_알코르콘의_축구_선수", "id": 1702390, "predecessors": [{"name": "생활", "id": 15596}, {"name": "행정_구역_단위", "id": 581695}], "successors": []}

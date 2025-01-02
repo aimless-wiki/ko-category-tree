@@ -1,1 +1,1 @@
-{"name": "여자_총리", "id": 1893565, "predecessors": [{"name": "정부_관련_직업", "id": 670756}, {"name": "역직", "id": 633060}], "successors": []}
+{"name": "여자_총리", "id": 1893565, "predecessors": [{"name": "정부", "id": 15935}, {"name": "역직", "id": 633060}], "successors": []}

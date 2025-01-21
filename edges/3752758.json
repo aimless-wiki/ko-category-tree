@@ -1,1 +1,1 @@
-{"name": "변의_수에_따른_다각형", "id": 3752758, "predecessors": [{"name": "다포체", "id": 1595061}], "successors": [{"name": "사각형", "id": 82612}]}
+{"name": "변의_수에_따른_다각형", "id": 3752758, "predecessors": [{"name": "다포체", "id": 1595061}], "successors": [{"name": "삼각형", "id": 32188}, {"name": "사각형", "id": 82612}]}

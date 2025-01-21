@@ -1,1 +1,1 @@
-{"name": "유인_우주선", "id": 37674, "predecessors": [{"name": "우주_개발", "id": 44715}, {"name": "우주_비행", "id": 660763}], "successors": [{"name": "선저우_계획", "id": 37744}]}
+{"name": "유인_우주선", "id": 37674, "predecessors": [{"name": "우주선", "id": 37687}, {"name": "우주_비행", "id": 660763}], "successors": [{"name": "선저우_계획", "id": 37744}]}

@@ -1,1 +1,1 @@
-{"name": "우한_지하철", "id": 1855030, "predecessors": [{"name": "국가역사문화명성", "id": 294536}, {"name": "대중_교통", "id": 40988}], "successors": []}
+{"name": "우한_지하철", "id": 1855030, "predecessors": [{"name": "국가역사문화명성", "id": 294536}, {"name": "대중_교통", "id": 40988}, {"name": "대륙", "id": 11805}], "successors": []}

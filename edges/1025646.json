@@ -1,1 +1,1 @@
-{"name": "싸이오에터", "id": 1025646, "predecessors": [{"name": "에터", "id": 1025655}, {"name": "유기화학", "id": 32885}], "successors": []}
+{"name": "싸이오에터", "id": 1025646, "predecessors": [{"name": "에터", "id": 1025655}, {"name": "유기_화합물", "id": 40380}], "successors": []}

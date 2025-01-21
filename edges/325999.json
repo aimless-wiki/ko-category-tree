@@ -1,1 +1,1 @@
-{"name": "핵무기_개발_계획", "id": 325999, "predecessors": [{"name": "핵무기", "id": 19720}, {"name": "원자력", "id": 35623}], "successors": [{"name": "북핵문제", "id": 769196}]}
+{"name": "핵무기_개발", "id": 325999, "predecessors": [{"name": "핵무기", "id": 19720}, {"name": "원자력", "id": 35623}], "successors": [{"name": "북핵문제", "id": 769196}]}

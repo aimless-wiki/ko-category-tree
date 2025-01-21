@@ -1,1 +1,1 @@
-{"name": "석교", "id": 1111192, "predecessors": [{"name": "교량", "id": 1303974}, {"name": "돌", "id": 307557}], "successors": [{"name": "석조_홍예교", "id": 2780933}]}
+{"name": "석교", "id": 1111192, "predecessors": [{"name": "교량", "id": 1303974}, {"name": "건축재료", "id": 294656}], "successors": [{"name": "석조_홍예교", "id": 2780933}]}
